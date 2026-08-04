@@ -1,0 +1,8 @@
+{
+  "app": "Electrilauquen",
+  "version": "0.1.1",
+  "channel": "beta",
+  "package_url": "https://github.com/poggics/electrilauquen-updates/releases/download/v0.1.1/Electrilauquen-0.1.1.zip",
+  "sha256": "1B4DF675AEB847257B742705A90EF824DCD5E7DDFD873B2DD07D4D6FE542280D",
+  "notes": "Prueba del actualizador Beta"
+}
