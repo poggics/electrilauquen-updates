@@ -1,8 +1,8 @@
 {
   "app": "Electrilauquen",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "channel": "beta",
-  "package_url": "https://github.com/poggics/electrilauquen-updates/releases/download/v0.1.4/Electrilauquen-0.1.4.zip",
-  "sha256": "3c8ca9bee992485fa66191dd8a3f7bd662fc337a96d3691e7ee763b6ab1d3f7d",
-  "notes": "Mejoras visuales del detalle de comprobantes y devoluciones/cambios. Beta."
+  "package_url": "https://github.com/poggics/electrilauquen-updates/releases/download/v0.1.5/Electrilauquen-0.1.5.zip",
+  "sha256": "eeaba2ad529416eaca5e322e8dd9bbf8475768c1e36e88e5fc65b2465a35f228",
+  "notes": "Corrección del inicio del actualizador con permisos de Windows. Beta."
 }
