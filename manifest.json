@@ -1,8 +1,8 @@
 {
   "app": "Electrilauquen",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "channel": "beta",
-  "package_url": "https://github.com/poggics/electrilauquen-updates/releases/download/v0.1.3/Electrilauquen-0.1.3.zip",
-  "sha256": "1d338e79b24cb5cd98619d34af73f007267d7630374dd081e4c1ddef003d50b2",
-  "notes": "Prueba del actualizador Beta 0.1.3"
+  "package_url": "https://github.com/poggics/electrilauquen-updates/releases/download/v0.1.4/Electrilauquen-0.1.4.zip",
+  "sha256": "3c8ca9bee992485fa66191dd8a3f7bd662fc337a96d3691e7ee763b6ab1d3f7d",
+  "notes": "Mejoras visuales del detalle de comprobantes y devoluciones/cambios. Beta."
 }
