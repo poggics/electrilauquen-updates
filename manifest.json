@@ -1,8 +1,8 @@
 {
   "app": "Electrilauquen",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "channel": "beta",
-  "package_url": "https://github.com/poggics/electrilauquen-updates/releases/download/v0.2.0/Electrilauquen-0.2.0.zip",
-  "sha256": "97bd4dd07517a121a493c8fb052c16ebd11694ecc1e7d227e80aa525f83a4318",
-  "notes": "Mejoras visuales en Lista de Precios, tabla, filtros y ventanas de acciones. Beta."
+  "package_url": "https://github.com/poggics/electrilauquen-updates/releases/download/v0.2.1/Electrilauquen-0.2.1.zip",
+  "sha256": "028822528f5671cd85b11c1eeda4dc73dc1c0fa799e937deed083b31c8951c27",
+  "notes": "Corrección del empaquetado de dependencias del backend (uvicorn, FastAPI y WebView). Beta."
 }
