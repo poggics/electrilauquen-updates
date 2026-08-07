@@ -1,8 +1,8 @@
 {
   "app": "Electrilauquen",
-  "version": "0.1.5",
+  "version": "0.2.0",
   "channel": "beta",
-  "package_url": "https://github.com/poggics/electrilauquen-updates/releases/download/v0.1.5/Electrilauquen-0.1.5.zip",
-  "sha256": "eeaba2ad529416eaca5e322e8dd9bbf8475768c1e36e88e5fc65b2465a35f228",
-  "notes": "Corrección del inicio del actualizador con permisos de Windows. Beta."
+  "package_url": "https://github.com/poggics/electrilauquen-updates/releases/download/v0.2.0/Electrilauquen-0.2.0.zip",
+  "sha256": "97bd4dd07517a121a493c8fb052c16ebd11694ecc1e7d227e80aa525f83a4318",
+  "notes": "Mejoras visuales en Lista de Precios, tabla, filtros y ventanas de acciones. Beta."
 }
