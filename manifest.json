@@ -3,6 +3,6 @@
   "version": "0.2.2",
   "channel": "beta",
   "package_url": "https://github.com/poggics/electrilauquen-updates/releases/download/v0.2.2/Electrilauquen-0.2.2.zip",
-  "sha256": "a5f3f8681080db4ebc55721bd568001a40e365c374c1c4c0aa3b200a9fe6e97f",
-  "notes": "Corrección de validación HTTPS del actualizador mediante certificados raíz empaquetados. Beta."
+  "sha256": "131ea0dbe50e3edac4466925906fd0c6d7eeb8fc0480dfac8f6c125c7d6fe279",
+  "notes": "Corrección de validación HTTPS del actualizador mediante certificados raíz empaquetados. Paquete beta 0.2.2."
 }
