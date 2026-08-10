@@ -1,8 +1,8 @@
 {
   "app": "Electrilauquen",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "channel": "beta",
-  "package_url": "https://github.com/poggics/electrilauquen-updates/releases/download/v0.2.3/Electrilauquen-0.2.3.zip",
-  "sha256": "fa9b9b0289e019c9fadc49f09581a62a7b40f463f588977034df54e47cb20b1c",
-  "notes": "Cambios recientes trabajados en la aplicación y mejoras generales. Paquete beta 0.2.3."
+  "package_url": "https://github.com/poggics/electrilauquen-updates/releases/download/v0.2.4/Electrilauquen-0.2.4.zip",
+  "sha256": "49adc5d131fc75707884a45231099531dad35043971076f7b28b0a89d464252c",
+  "notes": "Actualizador gráfico sin terminal, con progreso y mensajes claros. Paquete beta 0.2.4."
 }
