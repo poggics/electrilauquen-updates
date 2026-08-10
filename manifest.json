@@ -1,8 +1,8 @@
 {
     "app":  "ElectriLauquen",
-    "version":  "0.2.9",
+    "version":  "0.2.10",
     "channel":  "beta",
-    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v0.2.9/Electrilauquen-0.2.9.zip",
-    "sha256":  "291df5e20d5b6e7884f530d3211b842eb5df8952449ee27bcb4beec65b063704",
-    "notes":  "Paquete beta 0.2.9."
+    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v0.2.10/Electrilauquen-0.2.10.zip",
+    "sha256":  "8b4031e7fed7beba8e84275c947ae0bbe131956fed798a65ca7f334214843229",
+    "notes":  "Paquete beta 0.2.10."
 }
