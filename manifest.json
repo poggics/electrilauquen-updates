@@ -1,8 +1,8 @@
 {
-  "app": "ElectriLauquen",
-  "version": "1.0.3",
-  "channel": "stable",
-  "package_url": "https://github.com/poggics/electrilauquen-updates/releases/download/v1.0.3/Electrilauquen-1.0.3.zip",
-  "sha256": "7ade55a75d8d0eb907da66bc91ec127987c21d2acb8001bb5924faa0c16d3171",
-  "notes": "Cambio de etiqueta fiscal: comprobantes."
+    "app":  "ElectriLauquen",
+    "version":  "1.0.4",
+    "channel":  "stable",
+    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.0.4/Electrilauquen-1.0.4.zip",
+    "sha256":  "3c0f9a36f77372cf6b4efad649a33d0137ac2cd7628c6e280f19bbbb07a512d1",
+    "notes":  "Paquete stable 1.0.4."
 }
