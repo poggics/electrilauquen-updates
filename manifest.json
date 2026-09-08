@@ -1,8 +1,8 @@
 {
     "app":  "ElectriLauquen",
-    "version":  "1.0.12",
+    "version":  "1.0.13",
     "channel":  "stable",
-    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.0.12/Electrilauquen-1.0.12.zip",
-    "sha256":  "45de62a3db8e7baf9e2cd983786da9098285718225b19e448e6caae0a26c24ed",
-    "notes":  "## Modal de actualización\r\n\r\n- Se corrigió la presentación de las notas de actualización para mostrar títulos y viñetas correctamente, sin exponer la sintaxis Markdown.\r\n- Se amplió el modal y se agregó desplazamiento interno para que los cambios incluidos sean legibles y los botones permanezcan accesibles."
+    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.0.13/Electrilauquen-1.0.13.zip",
+    "sha256":  "da245f2671e2bc3a2b97a2a7c99cd4d44e85542dfb7d252ed8100b9707281baa",
+    "notes":  "## Sistema y actualizaciones\r\n\r\n- Se agregó en Configuración → Sistema una tarjeta con las notas completas de la última actualización y su versión.\r\n- Se mejoró la legibilidad de las notas con títulos, viñetas, scroll interno y texto más grande.\r\n- Se actualizó la carga de estilos y scripts para asegurar que las correcciones visuales no queden en caché."
 }
