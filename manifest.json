@@ -1,11 +1,15 @@
 {
     "app":  "ElectriLauquen",
-    "version":  "1.0.14",
+    "version":  "1.0.15",
     "channel":  "stable",
-    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.0.14/Electrilauquen-1.0.14.zip",
-    "sha256":  "79a03e56b7611cc2bc78d897f5cabb6f52c7066775dd663bcc812f9907dee28d",
-    "notes":  "## Sistema y actualizaciones\r\n\r\n- Se agregaron flechas para consultar las notas de versiones anteriores desde Configuración → Sistema.\r\n- Se mantienen las notas de cada versión y el historial se conserva automáticamente al publicar nuevos updates.\r\n- El modo de desarrollo completa el historial con las notas versionadas del proyecto.",
+    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.0.15/Electrilauquen-1.0.15.zip",
+    "sha256":  "8ac1b3cac1d9d8ac133cd11f84e76b3ca7a7bf85a5442e3db199c89ef33cc0c6",
+    "notes":  "## Resumen de negocio\r\n\r\n- Se arregló un problema al exportar el PDF de “Resumen negocio”.\r\n- “Resumen Negocio” ahora abre por defecto en “Este mes”.\r\n- “Exportar Resumen” permite elegir hoy, semana, mes o año y seleccionar dónde guardar el PDF.\r\n- Se eliminó un botón sin función de “Resumen Negocio”.\r\n- “Productos con menos salidas” ahora muestra las ventas con color rojo.\r\n\r\n## Cambios, devoluciones e historial\r\n\r\n- Al hacer un cambio y seleccionar efectivo para la diferencia, aparece el modal “Cobro en efectivo” para calcular el vuelto.\r\n- Se corrigieron dos problemas relacionados con el historial de facturas y presupuestos.\r\n- El campo “Cliente paga con” agrega separadores de miles mientras se escribe.\r\n\r\n## Facturación\r\n\r\n- Al realizar una venta con Factura A/B, se muestra una ventana con el proceso interno de creación de la factura.",
     "notes_history":  [
+                          {
+                              "version":  "1.0.15",
+                              "notes":  "## Resumen de negocio\r\n\r\n- Se arregló un problema al exportar el PDF de “Resumen negocio”.\r\n- “Resumen Negocio” ahora abre por defecto en “Este mes”.\r\n- “Exportar Resumen” permite elegir hoy, semana, mes o año y seleccionar dónde guardar el PDF.\r\n- Se eliminó un botón sin función de “Resumen Negocio”.\r\n- “Productos con menos salidas” ahora muestra las ventas con color rojo.\r\n\r\n## Cambios, devoluciones e historial\r\n\r\n- Al hacer un cambio y seleccionar efectivo para la diferencia, aparece el modal “Cobro en efectivo” para calcular el vuelto.\r\n- Se corrigieron dos problemas relacionados con el historial de facturas y presupuestos.\r\n- El campo “Cliente paga con” agrega separadores de miles mientras se escribe.\r\n\r\n## Facturación\r\n\r\n- Al realizar una venta con Factura A/B, se muestra una ventana con el proceso interno de creación de la factura."
+                          },
                           {
                               "version":  "1.0.14",
                               "notes":  "## Sistema y actualizaciones\r\n\r\n- Se agregaron flechas para consultar las notas de versiones anteriores desde Configuración → Sistema.\r\n- Se mantienen las notas de cada versión y el historial se conserva automáticamente al publicar nuevos updates.\r\n- El modo de desarrollo completa el historial con las notas versionadas del proyecto."
