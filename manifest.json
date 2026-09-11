@@ -1,11 +1,15 @@
 {
     "app":  "ElectriLauquen",
-    "version":  "1.0.16",
+    "version":  "1.0.17",
     "channel":  "stable",
-    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.0.16/Electrilauquen-1.0.16.zip",
-    "sha256":  "9401efbe661fe2e7d6b5a8dcf2a63886bc1fc7b287ba494a0425c9ac3d026605",
-    "notes":  "## Nueva venta\r\n\r\n- Se corrigió un problema en la grilla de “Nueva venta” al agregar muchos ítems.\r\n- Se añadió la búsqueda de clientes por palabra clave desde el campo “Razón Social / Nombre”.\r\n- Al intentar cargar un presupuesto con cinco ventanas de venta abiertas, se informa que se alcanzó el máximo permitido.\r\n\r\n## Facturación e importes\r\n\r\n- Se corrigió un error menor relacionado con el botón “Buscar Actualizaciones”.\r\n- Se corrigió un error menor en el desglose de importes de una Factura A.\r\n- Se corrigió un error visual que mostraba el proceso de facturación al emitir presupuestos y remitos.\r\n- Se corrigió un error que impedía facturar con recargos.\r\n\r\n## Historial de ventas\r\n\r\n- Se corrigió un error visual relacionado con los importes del historial de facturas y presupuestos.\r\n- Se unificaron los filtros “Factura A” y “Factura B” en un único filtro “Factura A/B”.",
+    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.0.17/Electrilauquen-1.0.17.zip",
+    "sha256":  "2cff9df8af60e4b74dfa08d25f75d8d5e08d6cb2124a2c3fe6c0c6cc36a27e04",
+    "notes":  "## Historial de ventas\r\n\r\n- Ahora en “Historial de ventas” el impacto del presupuesto cambió de “Cotización” a dos opciones: “Está pasado” y “No está pasado”.\r\n\r\n1. Presupuesto sin check: “No está pasado”.\r\n2. Presupuesto con check: “Está pasado”.",
     "notes_history":  [
+                          {
+                              "version":  "1.0.17",
+                              "notes":  "## Historial de ventas\r\n\r\n- Ahora en “Historial de ventas” el impacto del presupuesto cambió de “Cotización” a dos opciones: “Está pasado” y “No está pasado”.\r\n\r\n1. Presupuesto sin check: “No está pasado”.\r\n2. Presupuesto con check: “Está pasado”."
+                          },
                           {
                               "version":  "1.0.16",
                               "notes":  "## Nueva venta\r\n\r\n- Se corrigió un problema en la grilla de “Nueva venta” al agregar muchos ítems.\r\n- Se añadió la búsqueda de clientes por palabra clave desde el campo “Razón Social / Nombre”.\r\n- Al intentar cargar un presupuesto con cinco ventanas de venta abiertas, se informa que se alcanzó el máximo permitido.\r\n\r\n## Facturación e importes\r\n\r\n- Se corrigió un error menor relacionado con el botón “Buscar Actualizaciones”.\r\n- Se corrigió un error menor en el desglose de importes de una Factura A.\r\n- Se corrigió un error visual que mostraba el proceso de facturación al emitir presupuestos y remitos.\r\n- Se corrigió un error que impedía facturar con recargos.\r\n\r\n## Historial de ventas\r\n\r\n- Se corrigió un error visual relacionado con los importes del historial de facturas y presupuestos.\r\n- Se unificaron los filtros “Factura A” y “Factura B” en un único filtro “Factura A/B”."
