@@ -1,11 +1,15 @@
 {
     "app":  "ElectriLauquen",
-    "version":  "1.0.17",
+    "version":  "1.0.18",
     "channel":  "stable",
-    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.0.17/Electrilauquen-1.0.17.zip",
-    "sha256":  "2cff9df8af60e4b74dfa08d25f75d8d5e08d6cb2124a2c3fe6c0c6cc36a27e04",
-    "notes":  "## Historial de ventas\r\n\r\n- Ahora en “Historial de ventas” el impacto del presupuesto cambió de “Cotización” a dos opciones: “Está pasado” y “No está pasado”.\r\n\r\n1. Presupuesto sin check: “No está pasado”.\r\n2. Presupuesto con check: “Está pasado”.",
+    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.0.18/Electrilauquen-1.0.18.zip",
+    "sha256":  "1195a25d8003496fab3db34c614999a74b95c0dd70f6106cd38f5a612a4a4bd8",
+    "notes":  "## Cambios\r\n\r\n- En “Historial de ventas” se eliminaron los filtros fijos “Hoy”, “Ayer”, “Esta semana”, “Este mes” y “Ver todo”, reemplazándolos por un selector de fecha “Desde/Hasta”.\r\n- En “Lista de Precios” se agregó un botón inferior para revisar ganancias menores al 55%.\r\n- En “Historial de ventas” se agregó el porcentaje de ganancia individual de cada producto incluido en una venta.",
     "notes_history":  [
+                          {
+                              "version":  "1.0.18",
+                              "notes":  "## Cambios\r\n\r\n- En “Historial de ventas” se eliminaron los filtros fijos “Hoy”, “Ayer”, “Esta semana”, “Este mes” y “Ver todo”, reemplazándolos por un selector de fecha “Desde/Hasta”.\r\n- En “Lista de Precios” se agregó un botón inferior para revisar ganancias menores al 55%.\r\n- En “Historial de ventas” se agregó el porcentaje de ganancia individual de cada producto incluido en una venta."
+                          },
                           {
                               "version":  "1.0.17",
                               "notes":  "## Historial de ventas\r\n\r\n- Ahora en “Historial de ventas” el impacto del presupuesto cambió de “Cotización” a dos opciones: “Está pasado” y “No está pasado”.\r\n\r\n1. Presupuesto sin check: “No está pasado”.\r\n2. Presupuesto con check: “Está pasado”."
