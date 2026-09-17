@@ -1,11 +1,15 @@
 {
     "app":  "ElectriLauquen",
-    "version":  "1.0.18",
+    "version":  "1.0.19",
     "channel":  "stable",
-    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.0.18/Electrilauquen-1.0.18.zip",
-    "sha256":  "1195a25d8003496fab3db34c614999a74b95c0dd70f6106cd38f5a612a4a4bd8",
-    "notes":  "## Cambios\r\n\r\n- En “Historial de ventas” se eliminaron los filtros fijos “Hoy”, “Ayer”, “Esta semana”, “Este mes” y “Ver todo”, reemplazándolos por un selector de fecha “Desde/Hasta”.\r\n- En “Lista de Precios” se agregó un botón inferior para revisar ganancias menores al 55%.\r\n- En “Historial de ventas” se agregó el porcentaje de ganancia individual de cada producto incluido en una venta.",
+    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.0.19/Electrilauquen-1.0.19.zip",
+    "sha256":  "0221fa02f746317cfb58dec1b53a09381d72995ea55f19217e50c6ab5b5ec734",
+    "notes":  "Paquete stable 1.0.19.",
     "notes_history":  [
+                          {
+                              "version":  "1.0.19",
+                              "notes":  "Paquete stable 1.0.19."
+                          },
                           {
                               "version":  "1.0.18",
                               "notes":  "## Cambios\r\n\r\n- En “Historial de ventas” se eliminaron los filtros fijos “Hoy”, “Ayer”, “Esta semana”, “Este mes” y “Ver todo”, reemplazándolos por un selector de fecha “Desde/Hasta”.\r\n- En “Lista de Precios” se agregó un botón inferior para revisar ganancias menores al 55%.\r\n- En “Historial de ventas” se agregó el porcentaje de ganancia individual de cada producto incluido en una venta."
