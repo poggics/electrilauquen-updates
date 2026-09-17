@@ -1,46 +1,46 @@
 {
-    "app":  "ElectriLauquen",
-    "version":  "1.0.19",
-    "channel":  "stable",
-    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.0.19/Electrilauquen-1.0.19.zip",
-    "sha256":  "0221fa02f746317cfb58dec1b53a09381d72995ea55f19217e50c6ab5b5ec734",
-    "notes":  "Paquete stable 1.0.19.",
-    "notes_history":  [
-                          {
-                              "version":  "1.0.19",
-                              "notes":  "Paquete stable 1.0.19."
-                          },
-                          {
-                              "version":  "1.0.18",
-                              "notes":  "## Cambios\r\n\r\n- En “Historial de ventas” se eliminaron los filtros fijos “Hoy”, “Ayer”, “Esta semana”, “Este mes” y “Ver todo”, reemplazándolos por un selector de fecha “Desde/Hasta”.\r\n- En “Lista de Precios” se agregó un botón inferior para revisar ganancias menores al 55%.\r\n- En “Historial de ventas” se agregó el porcentaje de ganancia individual de cada producto incluido en una venta."
-                          },
-                          {
-                              "version":  "1.0.17",
-                              "notes":  "## Historial de ventas\r\n\r\n- Ahora en “Historial de ventas” el impacto del presupuesto cambió de “Cotización” a dos opciones: “Está pasado” y “No está pasado”.\r\n\r\n1. Presupuesto sin check: “No está pasado”.\r\n2. Presupuesto con check: “Está pasado”."
-                          },
-                          {
-                              "version":  "1.0.16",
-                              "notes":  "## Nueva venta\r\n\r\n- Se corrigió un problema en la grilla de “Nueva venta” al agregar muchos ítems.\r\n- Se añadió la búsqueda de clientes por palabra clave desde el campo “Razón Social / Nombre”.\r\n- Al intentar cargar un presupuesto con cinco ventanas de venta abiertas, se informa que se alcanzó el máximo permitido.\r\n\r\n## Facturación e importes\r\n\r\n- Se corrigió un error menor relacionado con el botón “Buscar Actualizaciones”.\r\n- Se corrigió un error menor en el desglose de importes de una Factura A.\r\n- Se corrigió un error visual que mostraba el proceso de facturación al emitir presupuestos y remitos.\r\n- Se corrigió un error que impedía facturar con recargos.\r\n\r\n## Historial de ventas\r\n\r\n- Se corrigió un error visual relacionado con los importes del historial de facturas y presupuestos.\r\n- Se unificaron los filtros “Factura A” y “Factura B” en un único filtro “Factura A/B”."
-                          },
-                          {
-                              "version":  "1.0.15",
-                              "notes":  "## Resumen de negocio\r\n\r\n- Se arregló un problema al exportar el PDF de “Resumen negocio”.\r\n- “Resumen Negocio” ahora abre por defecto en “Este mes”.\r\n- “Exportar Resumen” permite elegir hoy, semana, mes o año y seleccionar dónde guardar el PDF.\r\n- Se eliminó un botón sin función de “Resumen Negocio”.\r\n- “Productos con menos salidas” ahora muestra las ventas con color rojo.\r\n\r\n## Cambios, devoluciones e historial\r\n\r\n- Al hacer un cambio y seleccionar efectivo para la diferencia, aparece el modal “Cobro en efectivo” para calcular el vuelto.\r\n- Se corrigieron dos problemas relacionados con el historial de facturas y presupuestos.\r\n- El campo “Cliente paga con” agrega separadores de miles mientras se escribe.\r\n\r\n## Facturación\r\n\r\n- Al realizar una venta con Factura A/B, se muestra una ventana con el proceso interno de creación de la factura."
-                          },
-                          {
-                              "version":  "1.0.14",
-                              "notes":  "## Sistema y actualizaciones\r\n\r\n- Se agregaron flechas para consultar las notas de versiones anteriores desde Configuración → Sistema.\r\n- Se mantienen las notas de cada versión y el historial se conserva automáticamente al publicar nuevos updates.\r\n- El modo de desarrollo completa el historial con las notas versionadas del proyecto."
-                          },
-                          {
-                              "version":  "1.0.13",
-                              "notes":  "## Sistema y actualizaciones\r\n\r\n- Se agregó en Configuración → Sistema una tarjeta con las notas completas de la última actualización y su versión.\r\n- Se mejoró la legibilidad de las notas con títulos, viñetas, scroll interno y texto más grande.\r\n- Se actualizó la carga de estilos y scripts para asegurar que las correcciones visuales no queden en caché."
-                          },
-                          {
-                              "version":  "1.0.12",
-                              "notes":  "## Modal de actualización\r\n\r\n- Se corrigió la presentación de las notas de actualización para mostrar títulos y viñetas correctamente, sin exponer la sintaxis Markdown.\r\n- Se amplió el modal y se agregó desplazamiento interno para que los cambios incluidos sean legibles y los botones permanezcan accesibles."
-                          },
-                          {
-                              "version":  "1.0.11",
-                              "notes":  "## Ventas y comprobantes\r\n\r\n- Se eliminó el mensaje inesperado que podía aparecer al emitir una nota de crédito.\r\n- Los presupuestos guardados con método de pago “Efectivo” ahora muestran el modal “Cobro en efectivo” para facilitar el cálculo del vuelto.\r\n- Los presupuestos marcados como “Cotización” ahora se reflejan correctamente en Resumen Negocio y en las tarjetas de Inicio, incluyendo ventas y unidades vendidas.\r\n- Se corrigieron los cambios y devoluciones vinculados a una factura o presupuesto para respetar los descuentos aplicados al comprobante original.\r\n- Nueva Venta ahora restablece automáticamente Comprobante, Método de pago y Vendedor después de guardar una factura, presupuesto o remito.\r\n- El importe recibido en “Cobro en efectivo” ahora muestra separadores de miles al ingresar valores como $10.000.\r\n- Se agregó una X para limpiar rápidamente la búsqueda en Historial de ventas.\r\n\r\n## Inicio y reportes\r\n\r\n- Se corrigió el cálculo de las tarjetas “Hoy”, “Esta semana” y “Este mes”, incluyendo ventas y unidades vendidas.\r\n\r\n## Precios y compras\r\n\r\n- Precios sin redondear ahora muestra únicamente productos cuyo precio público todavía no está redondeado.\r\n- Se corrigió la actualización de esa lista después de redondear productos, evitando que sigan apareciendo como pendientes.\r\n- En Nueva compra se unificaron los campos “Subtotal 21%” y “Subtotal 10,5%” en un único campo “Subtotal”.\r\n\r\n## Facturación ARCA\r\n\r\n- Las instalaciones nuevas quedan inicialmente en facturación real; el modo prueba puede activarse manualmente desde el interruptor.\r\n- Se conserva la configuración fiscal local de cada PC y no se incluyen certificados ni claves privadas en el update.\r\n\r\n## Backups y documentos\r\n\r\n- Se incorporó un máximo de cinco backups de la base de datos por equipo, generados al abrir, cerrar y actualizar el software.\r\n- El backup incluye la base completa: proveedores, compras, ventas y demás información almacenada en SQLite.\r\n- Los PDFs y documentos generados se respaldan por separado en OneDrive, dentro de una carpeta propia para cada PC.\r\n- Si se corta la luz o OneDrive no responde, el software continúa funcionando; la única excepción es la disponibilidad de la conexión con ARCA."
-                          }
-                      ]
+  "app": "ElectriLauquen",
+  "version": "1.0.19",
+  "channel": "stable",
+  "package_url": "https://github.com/poggics/electrilauquen-updates/releases/download/v1.0.19/Electrilauquen-1.0.19.zip",
+  "sha256": "0221fa02f746317cfb58dec1b53a09381d72995ea55f19217e50c6ab5b5ec734",
+  "notes": "Correcciones menores.",
+  "notes_history": [
+    {
+      "version": "1.0.19",
+      "notes": "Correcciones menores."
+    },
+    {
+      "version": "1.0.18",
+      "notes": "## Cambios\r\n\r\n- En “Historial de ventas” se eliminaron los filtros fijos “Hoy”, “Ayer”, “Esta semana”, “Este mes” y “Ver todo”, reemplazándolos por un selector de fecha “Desde/Hasta”.\r\n- En “Lista de Precios” se agregó un botón inferior para revisar ganancias menores al 55%.\r\n- En “Historial de ventas” se agregó el porcentaje de ganancia individual de cada producto incluido en una venta."
+    },
+    {
+      "version": "1.0.17",
+      "notes": "## Historial de ventas\r\n\r\n- Ahora en “Historial de ventas” el impacto del presupuesto cambió de “Cotización” a dos opciones: “Está pasado” y “No está pasado”.\r\n\r\n1. Presupuesto sin check: “No está pasado”.\r\n2. Presupuesto con check: “Está pasado”."
+    },
+    {
+      "version": "1.0.16",
+      "notes": "## Nueva venta\r\n\r\n- Se corrigió un problema en la grilla de “Nueva venta” al agregar muchos ítems.\r\n- Se añadió la búsqueda de clientes por palabra clave desde el campo “Razón Social / Nombre”.\r\n- Al intentar cargar un presupuesto con cinco ventanas de venta abiertas, se informa que se alcanzó el máximo permitido.\r\n\r\n## Facturación e importes\r\n\r\n- Se corrigió un error menor relacionado con el botón “Buscar Actualizaciones”.\r\n- Se corrigió un error menor en el desglose de importes de una Factura A.\r\n- Se corrigió un error visual que mostraba el proceso de facturación al emitir presupuestos y remitos.\r\n- Se corrigió un error que impedía facturar con recargos.\r\n\r\n## Historial de ventas\r\n\r\n- Se corrigió un error visual relacionado con los importes del historial de facturas y presupuestos.\r\n- Se unificaron los filtros “Factura A” y “Factura B” en un único filtro “Factura A/B”."
+    },
+    {
+      "version": "1.0.15",
+      "notes": "## Resumen de negocio\r\n\r\n- Se arregló un problema al exportar el PDF de “Resumen negocio”.\r\n- “Resumen Negocio” ahora abre por defecto en “Este mes”.\r\n- “Exportar Resumen” permite elegir hoy, semana, mes o año y seleccionar dónde guardar el PDF.\r\n- Se eliminó un botón sin función de “Resumen Negocio”.\r\n- “Productos con menos salidas” ahora muestra las ventas con color rojo.\r\n\r\n## Cambios, devoluciones e historial\r\n\r\n- Al hacer un cambio y seleccionar efectivo para la diferencia, aparece el modal “Cobro en efectivo” para calcular el vuelto.\r\n- Se corrigieron dos problemas relacionados con el historial de facturas y presupuestos.\r\n- El campo “Cliente paga con” agrega separadores de miles mientras se escribe.\r\n\r\n## Facturación\r\n\r\n- Al realizar una venta con Factura A/B, se muestra una ventana con el proceso interno de creación de la factura."
+    },
+    {
+      "version": "1.0.14",
+      "notes": "## Sistema y actualizaciones\r\n\r\n- Se agregaron flechas para consultar las notas de versiones anteriores desde Configuración → Sistema.\r\n- Se mantienen las notas de cada versión y el historial se conserva automáticamente al publicar nuevos updates.\r\n- El modo de desarrollo completa el historial con las notas versionadas del proyecto."
+    },
+    {
+      "version": "1.0.13",
+      "notes": "## Sistema y actualizaciones\r\n\r\n- Se agregó en Configuración → Sistema una tarjeta con las notas completas de la última actualización y su versión.\r\n- Se mejoró la legibilidad de las notas con títulos, viñetas, scroll interno y texto más grande.\r\n- Se actualizó la carga de estilos y scripts para asegurar que las correcciones visuales no queden en caché."
+    },
+    {
+      "version": "1.0.12",
+      "notes": "## Modal de actualización\r\n\r\n- Se corrigió la presentación de las notas de actualización para mostrar títulos y viñetas correctamente, sin exponer la sintaxis Markdown.\r\n- Se amplió el modal y se agregó desplazamiento interno para que los cambios incluidos sean legibles y los botones permanezcan accesibles."
+    },
+    {
+      "version": "1.0.11",
+      "notes": "## Ventas y comprobantes\r\n\r\n- Se eliminó el mensaje inesperado que podía aparecer al emitir una nota de crédito.\r\n- Los presupuestos guardados con método de pago “Efectivo” ahora muestran el modal “Cobro en efectivo” para facilitar el cálculo del vuelto.\r\n- Los presupuestos marcados como “Cotización” ahora se reflejan correctamente en Resumen Negocio y en las tarjetas de Inicio, incluyendo ventas y unidades vendidas.\r\n- Se corrigieron los cambios y devoluciones vinculados a una factura o presupuesto para respetar los descuentos aplicados al comprobante original.\r\n- Nueva Venta ahora restablece automáticamente Comprobante, Método de pago y Vendedor después de guardar una factura, presupuesto o remito.\r\n- El importe recibido en “Cobro en efectivo” ahora muestra separadores de miles al ingresar valores como $10.000.\r\n- Se agregó una X para limpiar rápidamente la búsqueda en Historial de ventas.\r\n\r\n## Inicio y reportes\r\n\r\n- Se corrigió el cálculo de las tarjetas “Hoy”, “Esta semana” y “Este mes”, incluyendo ventas y unidades vendidas.\r\n\r\n## Precios y compras\r\n\r\n- Precios sin redondear ahora muestra únicamente productos cuyo precio público todavía no está redondeado.\r\n- Se corrigió la actualización de esa lista después de redondear productos, evitando que sigan apareciendo como pendientes.\r\n- En Nueva compra se unificaron los campos “Subtotal 21%” y “Subtotal 10,5%” en un único campo “Subtotal”.\r\n\r\n## Facturación ARCA\r\n\r\n- Las instalaciones nuevas quedan inicialmente en facturación real; el modo prueba puede activarse manualmente desde el interruptor.\r\n- Se conserva la configuración fiscal local de cada PC y no se incluyen certificados ni claves privadas en el update.\r\n\r\n## Backups y documentos\r\n\r\n- Se incorporó un máximo de cinco backups de la base de datos por equipo, generados al abrir, cerrar y actualizar el software.\r\n- El backup incluye la base completa: proveedores, compras, ventas y demás información almacenada en SQLite.\r\n- Los PDFs y documentos generados se respaldan por separado en OneDrive, dentro de una carpeta propia para cada PC.\r\n- Si se corta la luz o OneDrive no responde, el software continúa funcionando; la única excepción es la disponibilidad de la conexión con ARCA."
+    }
+  ]
 }
