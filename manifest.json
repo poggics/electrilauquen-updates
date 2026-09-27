@@ -1,11 +1,15 @@
 {
     "app":  "ElectriLauquen",
-    "version":  "1.0.23",
+    "version":  "1.0.24",
     "channel":  "stable",
-    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.0.23/Electrilauquen-1.0.23.zip",
-    "sha256":  "158703528c055ba6f7464b0ff92d0e3297a7e2881bf1d8b6da48aa96c5b5079c",
-    "notes":  "- Se agregó una calculadora de vuelto.\r\n- Se corrigió un problema al modificar precios de costos.",
+    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.0.24/Electrilauquen-1.0.24.zip",
+    "sha256":  "b5ff64d82c882887da2964b4b7473f78a10c8bb5971067fcc4897dd871fbb9ad",
+    "notes":  "- En Nuevo producto, la ganancia predeterminada ahora es del 55%.\r\n- Revisar Precio ahora muestra productos sin cambios de precio desde hace más de tres meses.\r\n- Se corrigió el Total vendido del modal Editar producto.",
     "notes_history":  [
+                          {
+                              "version":  "1.0.24",
+                              "notes":  "- En Nuevo producto, la ganancia predeterminada ahora es del 55%.\r\n- Revisar Precio ahora muestra productos sin cambios de precio desde hace más de tres meses.\r\n- Se corrigió el Total vendido del modal Editar producto."
+                          },
                           {
                               "version":  "1.0.23",
                               "notes":  "- Se agregó una calculadora de vuelto.\r\n- Se corrigió un problema al modificar precios de costos."
