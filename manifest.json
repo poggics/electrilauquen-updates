@@ -1,11 +1,15 @@
 {
     "app":  "ElectriLauquen",
-    "version":  "1.0.24",
+    "version":  "1.0.25",
     "channel":  "stable",
-    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.0.24/Electrilauquen-1.0.24.zip",
-    "sha256":  "b5ff64d82c882887da2964b4b7473f78a10c8bb5971067fcc4897dd871fbb9ad",
-    "notes":  "- En Nuevo producto, la ganancia predeterminada ahora es del 55%.\r\n- Revisar Precio ahora muestra productos sin cambios de precio desde hace más de tres meses.\r\n- Se corrigió el Total vendido del modal Editar producto.",
+    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.0.25/Electrilauquen-1.0.25.zip",
+    "sha256":  "165ce959af020b1a8e6e6e1df901d474e42c02fdd1824f83088d27a77614ca30",
+    "notes":  "- Mejora menor de rendimiento en Lista de precios.\r\n- Nuevo acceso directo a Historial de ventas en el Inicio.",
     "notes_history":  [
+                          {
+                              "version":  "1.0.25",
+                              "notes":  "- Mejora menor de rendimiento en Lista de precios.\r\n- Nuevo acceso directo a Historial de ventas en el Inicio."
+                          },
                           {
                               "version":  "1.0.24",
                               "notes":  "- En Nuevo producto, la ganancia predeterminada ahora es del 55%.\r\n- Revisar Precio ahora muestra productos sin cambios de precio desde hace más de tres meses.\r\n- Se corrigió el Total vendido del modal Editar producto."
