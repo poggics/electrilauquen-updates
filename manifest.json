@@ -1,11 +1,15 @@
 {
     "app":  "ElectriLauquen",
-    "version":  "1.0.25",
+    "version":  "1.0.26",
     "channel":  "stable",
-    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.0.25/Electrilauquen-1.0.25.zip",
-    "sha256":  "165ce959af020b1a8e6e6e1df901d474e42c02fdd1824f83088d27a77614ca30",
-    "notes":  "- Mejora menor de rendimiento en Lista de precios.\r\n- Nuevo acceso directo a Historial de ventas en el Inicio.",
+    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.0.26/Electrilauquen-1.0.26.zip",
+    "sha256":  "5143dbde38b26c061cb8ffbb846afe8073cc89def03539673f42712f9bb98ae4",
+    "notes":  "## Compras y proveedores\r\n- Se agregó la posibilidad de borrar la lista de precios del proveedor.\r\n- Se agregó la posibilidad de borrar una factura de compra.\r\n- En \u0027Nueva compra\u0027 se reemplazó la casilla de fecha por un selector de fecha para que sea más práctico.\r\n- Al agregar una nueva compra, si el total de la compra no coincide con el subtotal + IVA 21% + IVA 10,5%, ahora se puede añadir igualmente después de confirmar el aviso.",
     "notes_history":  [
+                          {
+                              "version":  "1.0.26",
+                              "notes":  "## Compras y proveedores\r\n- Se agregó la posibilidad de borrar la lista de precios del proveedor.\r\n- Se agregó la posibilidad de borrar una factura de compra.\r\n- En \u0027Nueva compra\u0027 se reemplazó la casilla de fecha por un selector de fecha para que sea más práctico.\r\n- Al agregar una nueva compra, si el total de la compra no coincide con el subtotal + IVA 21% + IVA 10,5%, ahora se puede añadir igualmente después de confirmar el aviso."
+                          },
                           {
                               "version":  "1.0.25",
                               "notes":  "- Mejora menor de rendimiento en Lista de precios.\r\n- Nuevo acceso directo a Historial de ventas en el Inicio."
