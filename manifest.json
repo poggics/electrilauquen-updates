@@ -1,11 +1,15 @@
 {
     "app":  "ElectriLauquen",
-    "version":  "1.0.28",
+    "version":  "1.0.29",
     "channel":  "stable",
-    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.0.28/Electrilauquen-1.0.28.zip",
-    "sha256":  "d161a5f41c1d74cc523eb0db4ec3c9594b766686060af13a51551d06f6c1d6a3",
-    "notes":  "- Se agregó un Asistente de IA\r\n- En la lista de precios, en el botón \u0027Acciones\u0027 se agregó la posibilidad de revertir ciertos cambios que se realizan.\r\n- Mejora de optimización en lista de precios\r\n- Mejora de optimización en Facturación.",
+    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.0.29/Electrilauquen-1.0.29.zip",
+    "sha256":  "b55622257e9b91364998b44177ad2fc9948c033bddd6e25776b4018ebe6b3824",
+    "notes":  "- Se rediseñó la manera de hacer cambios y devoluciones, ahora todo se hace desde un solo botón en \u0027Nueva Venta\u0027.\r\n- Mejora de optimización de \u0027Nueva Venta\u0027",
     "notes_history":  [
+                          {
+                              "version":  "1.0.29",
+                              "notes":  "- Se rediseñó la manera de hacer cambios y devoluciones, ahora todo se hace desde un solo botón en \u0027Nueva Venta\u0027.\r\n- Mejora de optimización de \u0027Nueva Venta\u0027"
+                          },
                           {
                               "version":  "1.0.28",
                               "notes":  "- Se agregó un Asistente de IA\r\n- En la lista de precios, en el botón \u0027Acciones\u0027 se agregó la posibilidad de revertir ciertos cambios que se realizan.\r\n- Mejora de optimización en lista de precios\r\n- Mejora de optimización en Facturación."
