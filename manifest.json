@@ -1,11 +1,15 @@
 {
     "app":  "ElectriLauquen",
-    "version":  "1.0.31",
+    "version":  "1.0.32",
     "channel":  "stable",
-    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.0.31/Electrilauquen-1.0.31.zip",
-    "sha256":  "c643f1294bd0493054e71d9b6474a74749e2e6768cc9b1d9383b8e6be284b360",
-    "notes":  "- En \u0027Nueva compra\u0027, dentro de \u0027Otros importes\u0027, se reemplazaron el IVA 27% y el neto 10,5% por un campo \u0027Impuestos\u0027.",
+    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.0.32/Electrilauquen-1.0.32.zip",
+    "sha256":  "6c996a86e190a9c5608c0160a5b449bf2aa0a0b5a2674d561837d5f6e3ee80c3",
+    "notes":  "- Al exportar la lista de precios, las facturas de compras o el resumen fiscal, ahora se elige dónde guardar el archivo.\r\n- Se corrigió que, al reabrirse solo después de actualizar, el programa mostrara una base vacía (los datos no se perdían).",
     "notes_history":  [
+                          {
+                              "version":  "1.0.32",
+                              "notes":  "- Al exportar la lista de precios, las facturas de compras o el resumen fiscal, ahora se elige dónde guardar el archivo.\r\n- Se corrigió que, al reabrirse solo después de actualizar, el programa mostrara una base vacía (los datos no se perdían)."
+                          },
                           {
                               "version":  "1.0.31",
                               "notes":  "- En \u0027Nueva compra\u0027, dentro de \u0027Otros importes\u0027, se reemplazaron el IVA 27% y el neto 10,5% por un campo \u0027Impuestos\u0027."
