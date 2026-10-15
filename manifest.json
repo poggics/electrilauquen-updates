@@ -1,11 +1,15 @@
 {
     "app":  "ElectriLauquen",
-    "version":  "1.0.32",
+    "version":  "1.0.33",
     "channel":  "stable",
-    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.0.32/Electrilauquen-1.0.32.zip",
-    "sha256":  "6c996a86e190a9c5608c0160a5b449bf2aa0a0b5a2674d561837d5f6e3ee80c3",
-    "notes":  "- Al exportar la lista de precios, las facturas de compras o el resumen fiscal, ahora se elige dónde guardar el archivo.\r\n- Se corrigió que, al reabrirse solo después de actualizar, el programa mostrara una base vacía (los datos no se perdían).",
+    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.0.33/Electrilauquen-1.0.33.zip",
+    "sha256":  "233bf4c4a4b367c26f5a23da8483ab093ff59b56d7b52523e515aec5c9ca879d",
+    "notes":  "- La pantalla de Inicio entra completa, sin desplazarse, en pantallas de 1360×768 con la ventana maximizada.",
     "notes_history":  [
+                          {
+                              "version":  "1.0.33",
+                              "notes":  "- La pantalla de Inicio entra completa, sin desplazarse, en pantallas de 1360×768 con la ventana maximizada."
+                          },
                           {
                               "version":  "1.0.32",
                               "notes":  "- Al exportar la lista de precios, las facturas de compras o el resumen fiscal, ahora se elige dónde guardar el archivo.\r\n- Se corrigió que, al reabrirse solo después de actualizar, el programa mostrara una base vacía (los datos no se perdían)."
