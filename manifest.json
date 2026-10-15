@@ -1,11 +1,15 @@
 {
     "app":  "ElectriLauquen",
-    "version":  "1.0.30",
+    "version":  "1.0.31",
     "channel":  "stable",
-    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.0.30/Electrilauquen-1.0.30.zip",
-    "sha256":  "c64e7be49dd78e392736ff97369662321bd9417fd3883b1a04b3f6625f07d93b",
-    "notes":  "- Se rediseñó el apartado de historial de ventas y se optimizó.\r\n- Se rediseñó el apartado de Clientes y se optimizó.\r\n- Se rediseñó el apartado de Compras y proveedores y se optimizó.\r\n- Se mejoró el diseño de la ventana del Asistente.\r\n- Ajuste visual menor en la configuración del Asistente.\r\n- Se rediseñó el apartado de \u0027Inicio\u0027 y se optimizó.",
+    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.0.31/Electrilauquen-1.0.31.zip",
+    "sha256":  "c643f1294bd0493054e71d9b6474a74749e2e6768cc9b1d9383b8e6be284b360",
+    "notes":  "- En \u0027Nueva compra\u0027, dentro de \u0027Otros importes\u0027, se reemplazaron el IVA 27% y el neto 10,5% por un campo \u0027Impuestos\u0027.",
     "notes_history":  [
+                          {
+                              "version":  "1.0.31",
+                              "notes":  "- En \u0027Nueva compra\u0027, dentro de \u0027Otros importes\u0027, se reemplazaron el IVA 27% y el neto 10,5% por un campo \u0027Impuestos\u0027."
+                          },
                           {
                               "version":  "1.0.30",
                               "notes":  "- Se rediseñó el apartado de historial de ventas y se optimizó.\r\n- Se rediseñó el apartado de Clientes y se optimizó.\r\n- Se rediseñó el apartado de Compras y proveedores y se optimizó.\r\n- Se mejoró el diseño de la ventana del Asistente.\r\n- Ajuste visual menor en la configuración del Asistente.\r\n- Se rediseñó el apartado de \u0027Inicio\u0027 y se optimizó."
