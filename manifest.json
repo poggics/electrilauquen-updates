@@ -1,11 +1,15 @@
 {
     "app":  "ElectriLauquen",
-    "version":  "1.0.33",
+    "version":  "1.0.34",
     "channel":  "stable",
-    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.0.33/Electrilauquen-1.0.33.zip",
-    "sha256":  "233bf4c4a4b367c26f5a23da8483ab093ff59b56d7b52523e515aec5c9ca879d",
-    "notes":  "- La pantalla de Inicio entra completa, sin desplazarse, en pantallas de 1360×768 con la ventana maximizada.",
+    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.0.34/Electrilauquen-1.0.34.zip",
+    "sha256":  "2ce30bd649c6f98323a3c28b4f9fba61b0fd043e67d1815a1581c1741a2a5e5e",
+    "notes":  "- El asistente IA busca en internet las veces que necesite, sin el límite de 3 búsquedas, y puede abrir y leer completa una página de los resultados o un enlace que le pases.\r\n- Puede hacer más consultas por pregunta, así los análisis cruzan ventas, compras, precios y stock antes de responder, y menciona lo que le llame la atención.\r\n- Nuevo nivel de esfuerzo \"Muy alto\" en Configuración \u003e Asistente IA, para preguntas que necesitan pensar más a fondo.",
     "notes_history":  [
+                          {
+                              "version":  "1.0.34",
+                              "notes":  "- El asistente IA busca en internet las veces que necesite, sin el límite de 3 búsquedas, y puede abrir y leer completa una página de los resultados o un enlace que le pases.\r\n- Puede hacer más consultas por pregunta, así los análisis cruzan ventas, compras, precios y stock antes de responder, y menciona lo que le llame la atención.\r\n- Nuevo nivel de esfuerzo \"Muy alto\" en Configuración \u003e Asistente IA, para preguntas que necesitan pensar más a fondo."
+                          },
                           {
                               "version":  "1.0.33",
                               "notes":  "- La pantalla de Inicio entra completa, sin desplazarse, en pantallas de 1360×768 con la ventana maximizada."
