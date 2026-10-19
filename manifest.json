@@ -1,11 +1,15 @@
 {
     "app":  "ElectriLauquen",
-    "version":  "1.0.34",
+    "version":  "1.0.35",
     "channel":  "stable",
-    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.0.34/Electrilauquen-1.0.34.zip",
-    "sha256":  "2ce30bd649c6f98323a3c28b4f9fba61b0fd043e67d1815a1581c1741a2a5e5e",
-    "notes":  "- El asistente IA busca en internet las veces que necesite, sin el límite de 3 búsquedas, y puede abrir y leer completa una página de los resultados o un enlace que le pases.\r\n- Puede hacer más consultas por pregunta, así los análisis cruzan ventas, compras, precios y stock antes de responder, y menciona lo que le llame la atención.\r\n- Nuevo nivel de esfuerzo \"Muy alto\" en Configuración \u003e Asistente IA, para preguntas que necesitan pensar más a fondo.",
+    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.0.35/Electrilauquen-1.0.35.zip",
+    "sha256":  "81ee0842935b38d5d98e353a2104c76f4a6caaf7c4513c21bb3d4096566e3b90",
+    "notes":  "- Al vender con cheque, la fecha prevista de cobro ahora es opcional y ya no se imprime en la factura: el comprobante dice solo \"Cheque\".\r\n- La fecha del cheque se carga o se cambia desde el detalle de la venta en el Historial (sección Cobro). Con la fecha de hoy o una anterior el cheque queda cobrado; si se corrige a una fecha futura, vuelve a pendiente.\r\n- Un cheque sin fecha queda pendiente y aparece como \"Cheque sin fecha\" en el Historial y en los cheques por cobrar de Inicio.",
     "notes_history":  [
+                          {
+                              "version":  "1.0.35",
+                              "notes":  "- Al vender con cheque, la fecha prevista de cobro ahora es opcional y ya no se imprime en la factura: el comprobante dice solo \"Cheque\".\r\n- La fecha del cheque se carga o se cambia desde el detalle de la venta en el Historial (sección Cobro). Con la fecha de hoy o una anterior el cheque queda cobrado; si se corrige a una fecha futura, vuelve a pendiente.\r\n- Un cheque sin fecha queda pendiente y aparece como \"Cheque sin fecha\" en el Historial y en los cheques por cobrar de Inicio."
+                          },
                           {
                               "version":  "1.0.34",
                               "notes":  "- El asistente IA busca en internet las veces que necesite, sin el límite de 3 búsquedas, y puede abrir y leer completa una página de los resultados o un enlace que le pases.\r\n- Puede hacer más consultas por pregunta, así los análisis cruzan ventas, compras, precios y stock antes de responder, y menciona lo que le llame la atención.\r\n- Nuevo nivel de esfuerzo \"Muy alto\" en Configuración \u003e Asistente IA, para preguntas que necesitan pensar más a fondo."
