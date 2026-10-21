@@ -1,11 +1,15 @@
 {
     "app":  "ElectriLauquen",
-    "version":  "1.0.35",
+    "version":  "1.0.36",
     "channel":  "stable",
-    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.0.35/Electrilauquen-1.0.35.zip",
-    "sha256":  "81ee0842935b38d5d98e353a2104c76f4a6caaf7c4513c21bb3d4096566e3b90",
-    "notes":  "- Al vender con cheque, la fecha prevista de cobro ahora es opcional y ya no se imprime en la factura: el comprobante dice solo \"Cheque\".\r\n- La fecha del cheque se carga o se cambia desde el detalle de la venta en el Historial (sección Cobro). Con la fecha de hoy o una anterior el cheque queda cobrado; si se corrige a una fecha futura, vuelve a pendiente.\r\n- Un cheque sin fecha queda pendiente y aparece como \"Cheque sin fecha\" en el Historial y en los cheques por cobrar de Inicio.",
+    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.0.36/Electrilauquen-1.0.36.zip",
+    "sha256":  "e277e73d75da01bec4c65d863a6ef11eebc1c03e63427c6571d153a15ce4441d",
+    "notes":  "- Se optimizó y se rediseñó Resumen Negocio.\r\n- Se optimizó todo el software.\r\n- Se mejoraron todas las animaciones del software.\r\n- Se optimizó y se rediseñó Resumen Fiscal.\r\n- Se rediseñó todo el software con nueva paleta de colores.\r\n- Se agregaron nuevos iconos.",
     "notes_history":  [
+                          {
+                              "version":  "1.0.36",
+                              "notes":  "- Se optimizó y se rediseñó Resumen Negocio.\r\n- Se optimizó todo el software.\r\n- Se mejoraron todas las animaciones del software.\r\n- Se optimizó y se rediseñó Resumen Fiscal.\r\n- Se rediseñó todo el software con nueva paleta de colores.\r\n- Se agregaron nuevos iconos."
+                          },
                           {
                               "version":  "1.0.35",
                               "notes":  "- Al vender con cheque, la fecha prevista de cobro ahora es opcional y ya no se imprime en la factura: el comprobante dice solo \"Cheque\".\r\n- La fecha del cheque se carga o se cambia desde el detalle de la venta en el Historial (sección Cobro). Con la fecha de hoy o una anterior el cheque queda cobrado; si se corrige a una fecha futura, vuelve a pendiente.\r\n- Un cheque sin fecha queda pendiente y aparece como \"Cheque sin fecha\" en el Historial y en los cheques por cobrar de Inicio."
