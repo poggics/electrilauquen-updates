@@ -1,11 +1,15 @@
 {
     "app":  "ElectriLauquen",
-    "version":  "1.0.37",
+    "version":  "1.0.38",
     "channel":  "stable",
-    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.0.37/Electrilauquen-1.0.37.zip",
-    "sha256":  "144b337285aec051ec3e3fd5b1639e4e3fb0b7fecd93a7800e4f8b73d7d44a7b",
-    "notes":  "- Se corrigió un corte brusco en las animaciones: el total de Nueva Venta y los íconos al pasar el mouse ahora vuelven suave a su lugar.",
+    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.0.38/Electrilauquen-1.0.38.zip",
+    "sha256":  "d851dd4b3458dd7bfb0284e31de729ffb6d15a98ea30c2151463c9fb4e29b13b",
+    "notes":  "- El total de Nueva Venta ya no se agranda al cambiar: ahora se ilumina su recuadro y el número se ve siempre nítido, sin el salto que se notaba al terminar.\r\n- Los botones con texto se oscurecen al presionarlos en lugar de achicarse, para que el texto no pierda nitidez.",
     "notes_history":  [
+                          {
+                              "version":  "1.0.38",
+                              "notes":  "- El total de Nueva Venta ya no se agranda al cambiar: ahora se ilumina su recuadro y el número se ve siempre nítido, sin el salto que se notaba al terminar.\r\n- Los botones con texto se oscurecen al presionarlos en lugar de achicarse, para que el texto no pierda nitidez."
+                          },
                           {
                               "version":  "1.0.37",
                               "notes":  "- Se corrigió un corte brusco en las animaciones: el total de Nueva Venta y los íconos al pasar el mouse ahora vuelven suave a su lugar."
