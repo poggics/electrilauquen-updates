@@ -1,11 +1,15 @@
 {
     "app":  "ElectriLauquen",
-    "version":  "1.0.36",
+    "version":  "1.0.37",
     "channel":  "stable",
-    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.0.36/Electrilauquen-1.0.36.zip",
-    "sha256":  "e277e73d75da01bec4c65d863a6ef11eebc1c03e63427c6571d153a15ce4441d",
-    "notes":  "- Se optimizó y se rediseñó Resumen Negocio.\r\n- Se optimizó todo el software.\r\n- Se mejoraron todas las animaciones del software.\r\n- Se optimizó y se rediseñó Resumen Fiscal.\r\n- Se rediseñó todo el software con nueva paleta de colores.\r\n- Se agregaron nuevos iconos.",
+    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.0.37/Electrilauquen-1.0.37.zip",
+    "sha256":  "144b337285aec051ec3e3fd5b1639e4e3fb0b7fecd93a7800e4f8b73d7d44a7b",
+    "notes":  "- Se corrigió un corte brusco en las animaciones: el total de Nueva Venta y los íconos al pasar el mouse ahora vuelven suave a su lugar.",
     "notes_history":  [
+                          {
+                              "version":  "1.0.37",
+                              "notes":  "- Se corrigió un corte brusco en las animaciones: el total de Nueva Venta y los íconos al pasar el mouse ahora vuelven suave a su lugar."
+                          },
                           {
                               "version":  "1.0.36",
                               "notes":  "- Se optimizó y se rediseñó Resumen Negocio.\r\n- Se optimizó todo el software.\r\n- Se mejoraron todas las animaciones del software.\r\n- Se optimizó y se rediseñó Resumen Fiscal.\r\n- Se rediseñó todo el software con nueva paleta de colores.\r\n- Se agregaron nuevos iconos."
