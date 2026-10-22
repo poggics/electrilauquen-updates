@@ -1,11 +1,15 @@
 {
     "app":  "ElectriLauquen",
-    "version":  "1.1.01",
+    "version":  "1.1.02",
     "channel":  "stable",
-    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.1.01/Electrilauquen-1.1.01.zip",
-    "sha256":  "a1943aeb4a5127c5e3101b347066ddb25510f9f46fb76c306726bd10b5da9bc3",
-    "notes":  "- Inicio ya no salta al abrirse: con varias ventas en el día, toda la pantalla subía de golpe cuando aparecía la lista de últimas ventas. Ahora el panel reserva su lugar desde el principio y nada se mueve al cargar ni al actualizarse cada minuto.",
+    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.1.02/Electrilauquen-1.1.02.zip",
+    "sha256":  "dd8fcf87410f29cddaacd57d08b9a391fd39f0b51c5682ba82980aca3ac78c66",
+    "notes":  "- Inicio: el lugar de las últimas ventas queda reservado desde el primer instante, así la pantalla tampoco se mueve en las PC más lentas mientras termina de abrirse.",
     "notes_history":  [
+                          {
+                              "version":  "1.1.02",
+                              "notes":  "- Inicio: el lugar de las últimas ventas queda reservado desde el primer instante, así la pantalla tampoco se mueve en las PC más lentas mientras termina de abrirse."
+                          },
                           {
                               "version":  "1.1.01",
                               "notes":  "- Inicio ya no salta al abrirse: con varias ventas en el día, toda la pantalla subía de golpe cuando aparecía la lista de últimas ventas. Ahora el panel reserva su lugar desde el principio y nada se mueve al cargar ni al actualizarse cada minuto."
