@@ -1,11 +1,15 @@
 {
     "app":  "ElectriLauquen",
-    "version":  "1.1.04",
+    "version":  "1.1.05",
     "channel":  "stable",
-    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.1.04/Electrilauquen-1.1.04.zip",
-    "sha256":  "3e2e99b020ef620823100b772878b9d9c5daf113d9911db5546ecd4f39f61185",
-    "notes":  "## General\r\n- Las barras de desplazamiento tienen un diseño propio en todo el programa: más finas, oscuras y sin flechas, con un riel suave que muestra dónde están. Al pasar el mouse se aclaran y al arrastrarlas se ponen ámbar.",
+    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.1.05/Electrilauquen-1.1.05.zip",
+    "sha256":  "2ae9d945511bb12441e2e810361f53134096211020efce9adc3dea1864ef8114",
+    "notes":  "## Asistente IA\r\n- También responde consultas técnicas de electricidad e iluminación (sección de cables, protecciones, consumos, normativa AEA) y preguntas generales, y puede ofrecer los materiales que hay en stock para lo que recomienda.",
     "notes_history":  [
+                          {
+                              "version":  "1.1.05",
+                              "notes":  "## Asistente IA\r\n- También responde consultas técnicas de electricidad e iluminación (sección de cables, protecciones, consumos, normativa AEA) y preguntas generales, y puede ofrecer los materiales que hay en stock para lo que recomienda."
+                          },
                           {
                               "version":  "1.1.04",
                               "notes":  "## General\r\n- Las barras de desplazamiento tienen un diseño propio en todo el programa: más finas, oscuras y sin flechas, con un riel suave que muestra dónde están. Al pasar el mouse se aclaran y al arrastrarlas se ponen ámbar."
