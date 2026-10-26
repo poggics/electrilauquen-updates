@@ -1,11 +1,15 @@
 {
     "app":  "ElectriLauquen",
-    "version":  "1.1.10",
+    "version":  "1.1.11",
     "channel":  "stable",
-    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.1.10/Electrilauquen-1.1.10.zip",
-    "sha256":  "36dd6c31670f0f900d39c04c06cd6fecdd0b6cb7b565c92be426dbbdf834c984",
-    "notes":  "## Asistente IA\r\n- La ventana del asistente es más ancha: ocupa más de la mitad de la pantalla, así las respuestas y las listas de materiales se leen con más comodidad.",
+    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.1.11/Electrilauquen-1.1.11.zip",
+    "sha256":  "7498ff5f64993b41586a7594fd52ad5974f1688a83909e627226510328d8e63a",
+    "notes":  "## Asistente IA\r\n- Mientras trabaja, muestra los pasos que va haciendo (qué consulta en la base, qué busca en internet) en lugar de \"Consultando…\".\r\n- Arma planillas de Excel: pedile \"pasame esto a un Excel\" (por ejemplo, los errores de la lista de un proveedor) y aparece una tarjeta con el botón «Guardar Excel». Los datos de tu lista de precios los completa el programa, exactos.\r\n- Con «Permitir cambios», actualiza los costos producto por producto con la lista de un proveedor: muestra cada costo nuevo con su precio, se confirma en el chat y queda en el Historial de cambios de Lista de precios para deshacerlo.\r\n- Recuerda a cada proveedor: cómo leer su lista, su descuento y qué código suyo es cada producto tuyo. Lo guarda cuando lo confirmás, y en Configuración \u003e Asistente IA ves lo que recuerda y lo podés olvidar.\r\n- Lee la lista guardada en la ficha de un proveedor y la factura adjunta a una compra, sin volver a adjuntarlas.\r\n- También compara listas de varios proveedores, controla una factura de compra contra la lista y el descuento, avisa los productos nuevos y los que ya no vienen, analiza cuánto aumentó cada proveedor y arma el pedido de reposición listo para mandar por WhatsApp.",
     "notes_history":  [
+                          {
+                              "version":  "1.1.11",
+                              "notes":  "## Asistente IA\r\n- Mientras trabaja, muestra los pasos que va haciendo (qué consulta en la base, qué busca en internet) en lugar de \"Consultando…\".\r\n- Arma planillas de Excel: pedile \"pasame esto a un Excel\" (por ejemplo, los errores de la lista de un proveedor) y aparece una tarjeta con el botón «Guardar Excel». Los datos de tu lista de precios los completa el programa, exactos.\r\n- Con «Permitir cambios», actualiza los costos producto por producto con la lista de un proveedor: muestra cada costo nuevo con su precio, se confirma en el chat y queda en el Historial de cambios de Lista de precios para deshacerlo.\r\n- Recuerda a cada proveedor: cómo leer su lista, su descuento y qué código suyo es cada producto tuyo. Lo guarda cuando lo confirmás, y en Configuración \u003e Asistente IA ves lo que recuerda y lo podés olvidar.\r\n- Lee la lista guardada en la ficha de un proveedor y la factura adjunta a una compra, sin volver a adjuntarlas.\r\n- También compara listas de varios proveedores, controla una factura de compra contra la lista y el descuento, avisa los productos nuevos y los que ya no vienen, analiza cuánto aumentó cada proveedor y arma el pedido de reposición listo para mandar por WhatsApp."
+                          },
                           {
                               "version":  "1.1.10",
                               "notes":  "## Asistente IA\r\n- La ventana del asistente es más ancha: ocupa más de la mitad de la pantalla, así las respuestas y las listas de materiales se leen con más comodidad."
