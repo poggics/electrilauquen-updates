@@ -1,11 +1,15 @@
 {
     "app":  "ElectriLauquen",
-    "version":  "1.1.08",
+    "version":  "1.1.09",
     "channel":  "stable",
-    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.1.08/Electrilauquen-1.1.08.zip",
-    "sha256":  "1271db5a63944c5730f1d20f386faf303c0841824681678524030e0e40362b4d",
-    "notes":  "## Asistente IA\r\n- Ahora se le pueden adjuntar la lista de precios de un proveedor (PDF, foto o Excel) y la planilla de Excel de descuentos del local. Compara los costos nuevos con los cargados, muestra cuánto sube cada producto y avisa lo que no está cargado o no vino en la lista.\r\n- Lee cada planilla y cada PDF como venga: no hace falta un formato fijo. Sigue las fórmulas de la planilla (por ejemplo, descuentos en cascada como \"30+10\") y, si algo no está claro, pregunta antes de calcular.\r\n- Con \"Permitir cambios\" activado, puede armar la propuesta de aumento para que la revises y la confirmes en el chat.\r\n- Se aceptan planillas .xlsx y .csv. Un .xls viejo hay que guardarlo como .xlsx desde Excel.",
+    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.1.09/Electrilauquen-1.1.09.zip",
+    "sha256":  "79efe293ee972c3673d295fc29f3fe3b529c066ec6dc7b8998a8915004a99d4d",
+    "notes":  "## Asistente IA\r\n- Ya no aparece el aviso de \"la conversación ya es larga\".\r\n- El texto de las respuestas se puede seleccionar con el mouse y copiar con Ctrl+C, entero o solo una parte.",
     "notes_history":  [
+                          {
+                              "version":  "1.1.09",
+                              "notes":  "## Asistente IA\r\n- Ya no aparece el aviso de \"la conversación ya es larga\".\r\n- El texto de las respuestas se puede seleccionar con el mouse y copiar con Ctrl+C, entero o solo una parte."
+                          },
                           {
                               "version":  "1.1.08",
                               "notes":  "## Asistente IA\r\n- Ahora se le pueden adjuntar la lista de precios de un proveedor (PDF, foto o Excel) y la planilla de Excel de descuentos del local. Compara los costos nuevos con los cargados, muestra cuánto sube cada producto y avisa lo que no está cargado o no vino en la lista.\r\n- Lee cada planilla y cada PDF como venga: no hace falta un formato fijo. Sigue las fórmulas de la planilla (por ejemplo, descuentos en cascada como \"30+10\") y, si algo no está claro, pregunta antes de calcular.\r\n- Con \"Permitir cambios\" activado, puede armar la propuesta de aumento para que la revises y la confirmes en el chat.\r\n- Se aceptan planillas .xlsx y .csv. Un .xls viejo hay que guardarlo como .xlsx desde Excel."
