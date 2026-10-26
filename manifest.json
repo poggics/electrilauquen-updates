@@ -1,11 +1,15 @@
 {
     "app":  "ElectriLauquen",
-    "version":  "1.1.09",
+    "version":  "1.1.10",
     "channel":  "stable",
-    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.1.09/Electrilauquen-1.1.09.zip",
-    "sha256":  "79efe293ee972c3673d295fc29f3fe3b529c066ec6dc7b8998a8915004a99d4d",
-    "notes":  "## Asistente IA\r\n- Ya no aparece el aviso de \"la conversación ya es larga\".\r\n- El texto de las respuestas se puede seleccionar con el mouse y copiar con Ctrl+C, entero o solo una parte.",
+    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.1.10/Electrilauquen-1.1.10.zip",
+    "sha256":  "36dd6c31670f0f900d39c04c06cd6fecdd0b6cb7b565c92be426dbbdf834c984",
+    "notes":  "## Asistente IA\r\n- La ventana del asistente es más ancha: ocupa más de la mitad de la pantalla, así las respuestas y las listas de materiales se leen con más comodidad.",
     "notes_history":  [
+                          {
+                              "version":  "1.1.10",
+                              "notes":  "## Asistente IA\r\n- La ventana del asistente es más ancha: ocupa más de la mitad de la pantalla, así las respuestas y las listas de materiales se leen con más comodidad."
+                          },
                           {
                               "version":  "1.1.09",
                               "notes":  "## Asistente IA\r\n- Ya no aparece el aviso de \"la conversación ya es larga\".\r\n- El texto de las respuestas se puede seleccionar con el mouse y copiar con Ctrl+C, entero o solo una parte."
