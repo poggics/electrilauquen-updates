@@ -1,11 +1,15 @@
 {
     "app":  "ElectriLauquen",
-    "version":  "1.1.16",
+    "version":  "1.1.17",
     "channel":  "stable",
-    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.1.16/Electrilauquen-1.1.16.zip",
-    "sha256":  "4ddd7dcec9b4dd0e874927fd4e94847a33b9b0a0f8a8c01e33ab4a9c2f996f47",
-    "notes":  "## Visor de PDF propio\r\n- Las facturas, notas de crédito y presupuestos se abren en una ventana del programa, con su mismo diseño, en lugar del visor del navegador. Se abren desde el Historial (botón PDF) y al cobrar en Nueva Venta.\r\n- Las facturas de compra y las listas de precios en PDF de Compras y Proveedores también se ven ahí.\r\n- Se pasa de hoja con las flechas o con las miniaturas de la izquierda (Original y Duplicado). El zoom va con la lupa, con Ctrl y la rueda del mouse, o con los botones de hoja entera y ajustar al ancho.\r\n- \"Abrir carpeta\" muestra el comprobante en la carpeta donde quedó guardado, y \"Guardar copia\" lo guarda donde elijas.\r\n- Esc cierra el visor.\r\n\r\n## Imprimir directo\r\n- \"Imprimir\" (o Ctrl+P) imprime sin pasar por la ventana de impresión de Windows. Se elige la impresora, qué hojas imprimir (todas, solo el original o solo el duplicado) y cuántas copias.\r\n- El programa se acuerda de la última impresora elegida.\r\n- Usa el papel, la bandeja y la doble faz que la impresora tiene configurados en Windows.",
+    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.1.17/Electrilauquen-1.1.17.zip",
+    "sha256":  "a892a094d6c055e1685a09ac09442fad30e5770430d6fae5dd8f8876b0a901d4",
+    "notes":  "## Impresión más nítida\r\n- Al imprimir desde el visor de PDF, la letra y las líneas salen negras y nítidas, como al imprimir desde el navegador. En la 1.1.16 la hoja salía gris y desteñida.",
     "notes_history":  [
+                          {
+                              "version":  "1.1.17",
+                              "notes":  "## Impresión más nítida\r\n- Al imprimir desde el visor de PDF, la letra y las líneas salen negras y nítidas, como al imprimir desde el navegador. En la 1.1.16 la hoja salía gris y desteñida."
+                          },
                           {
                               "version":  "1.1.16",
                               "notes":  "## Visor de PDF propio\r\n- Las facturas, notas de crédito y presupuestos se abren en una ventana del programa, con su mismo diseño, en lugar del visor del navegador. Se abren desde el Historial (botón PDF) y al cobrar en Nueva Venta.\r\n- Las facturas de compra y las listas de precios en PDF de Compras y Proveedores también se ven ahí.\r\n- Se pasa de hoja con las flechas o con las miniaturas de la izquierda (Original y Duplicado). El zoom va con la lupa, con Ctrl y la rueda del mouse, o con los botones de hoja entera y ajustar al ancho.\r\n- \"Abrir carpeta\" muestra el comprobante en la carpeta donde quedó guardado, y \"Guardar copia\" lo guarda donde elijas.\r\n- Esc cierra el visor.\r\n\r\n## Imprimir directo\r\n- \"Imprimir\" (o Ctrl+P) imprime sin pasar por la ventana de impresión de Windows. Se elige la impresora, qué hojas imprimir (todas, solo el original o solo el duplicado) y cuántas copias.\r\n- El programa se acuerda de la última impresora elegida.\r\n- Usa el papel, la bandeja y la doble faz que la impresora tiene configurados en Windows."
