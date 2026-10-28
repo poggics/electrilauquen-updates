@@ -1,11 +1,15 @@
 {
     "app":  "ElectriLauquen",
-    "version":  "1.1.18",
+    "version":  "1.1.19",
     "channel":  "stable",
-    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.1.18/Electrilauquen-1.1.18.zip",
-    "sha256":  "f8798abeeb088a3358246a1102ad23627184c8ba45f7a16d140ae81054899869",
-    "notes":  "## Impresión en A4, a tamaño real\r\n- Al imprimir desde el visor de PDF, el programa le pide a la impresora hoja A4 (o Carta, según el comprobante). Antes usaba el papel que la impresora tenía configurado en Windows, que muchas veces es Carta: la factura salía achicada y con mucho margen abajo.\r\n- La hoja sale en tamaño real, como se diseñó; solo se achica un poco si algo cae en el borde que la impresora no alcanza.\r\n- Se imprime de una sola cara: el original y el duplicado salen en hojas separadas, aunque la impresora tenga la doble faz activada.",
+    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.1.19/Electrilauquen-1.1.19.zip",
+    "sha256":  "2ec348fc849d86f4c4d90e73af4b1755aadc98f144baf7b4f5969fc2052b189a",
+    "notes":  "## PDF más grandes en el asistente\r\n- El asistente acepta PDF de hasta 16 MB (antes, 10 MB). Así se pueden pasar listas de proveedores o catálogos más pesados sin tener que achicarlos.",
     "notes_history":  [
+                          {
+                              "version":  "1.1.19",
+                              "notes":  "## PDF más grandes en el asistente\r\n- El asistente acepta PDF de hasta 16 MB (antes, 10 MB). Así se pueden pasar listas de proveedores o catálogos más pesados sin tener que achicarlos."
+                          },
                           {
                               "version":  "1.1.18",
                               "notes":  "## Impresión en A4, a tamaño real\r\n- Al imprimir desde el visor de PDF, el programa le pide a la impresora hoja A4 (o Carta, según el comprobante). Antes usaba el papel que la impresora tenía configurado en Windows, que muchas veces es Carta: la factura salía achicada y con mucho margen abajo.\r\n- La hoja sale en tamaño real, como se diseñó; solo se achica un poco si algo cae en el borde que la impresora no alcanza.\r\n- Se imprime de una sola cara: el original y el duplicado salen en hojas separadas, aunque la impresora tenga la doble faz activada."
