@@ -1,11 +1,15 @@
 {
     "app":  "ElectriLauquen",
-    "version":  "1.1.19",
+    "version":  "1.1.20",
     "channel":  "stable",
-    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.1.19/Electrilauquen-1.1.19.zip",
-    "sha256":  "2ec348fc849d86f4c4d90e73af4b1755aadc98f144baf7b4f5969fc2052b189a",
-    "notes":  "## PDF más grandes en el asistente\r\n- El asistente acepta PDF de hasta 16 MB (antes, 10 MB). Así se pueden pasar listas de proveedores o catálogos más pesados sin tener que achicarlos.",
+    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.1.20/Electrilauquen-1.1.20.zip",
+    "sha256":  "62e0840b715f9b0ced5997546b4fc154e352a7c9b3ef646c52f985bde989d2c8",
+    "notes":  "## Visor de PDF más cómodo\r\n- Los comprobantes se abren a un tamaño que se lee bien, a lo ancho de la ventana. Con los botones de la barra se puede seguir viendo la hoja entera o cambiar el zoom.\r\n- El panel Imprimir explica cómo imprime ahora: a tamaño real, en el papel del PDF y de una sola cara.",
     "notes_history":  [
+                          {
+                              "version":  "1.1.20",
+                              "notes":  "## Visor de PDF más cómodo\r\n- Los comprobantes se abren a un tamaño que se lee bien, a lo ancho de la ventana. Con los botones de la barra se puede seguir viendo la hoja entera o cambiar el zoom.\r\n- El panel Imprimir explica cómo imprime ahora: a tamaño real, en el papel del PDF y de una sola cara."
+                          },
                           {
                               "version":  "1.1.19",
                               "notes":  "## PDF más grandes en el asistente\r\n- El asistente acepta PDF de hasta 16 MB (antes, 10 MB). Así se pueden pasar listas de proveedores o catálogos más pesados sin tener que achicarlos."
