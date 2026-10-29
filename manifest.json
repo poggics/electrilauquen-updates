@@ -1,11 +1,15 @@
 {
     "app":  "ElectriLauquen",
-    "version":  "1.1.20",
+    "version":  "1.1.21",
     "channel":  "stable",
-    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.1.20/Electrilauquen-1.1.20.zip",
-    "sha256":  "62e0840b715f9b0ced5997546b4fc154e352a7c9b3ef646c52f985bde989d2c8",
-    "notes":  "## Visor de PDF más cómodo\r\n- Los comprobantes se abren a un tamaño que se lee bien, a lo ancho de la ventana. Con los botones de la barra se puede seguir viendo la hoja entera o cambiar el zoom.\r\n- El panel Imprimir explica cómo imprime ahora: a tamaño real, en el papel del PDF y de una sola cara.",
+    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.1.21/Electrilauquen-1.1.21.zip",
+    "sha256":  "2975dd6feb2fb2f4f23b148597dad13c7b060f86745c39356bb0d889a6a172af",
+    "notes":  "## Mantenimiento interno\r\n- El programa se arma siempre con las mismas versiones de sus componentes, las que se probaron antes de publicar. Hasta ahora cada update traía las que hubiera ese día.\r\n- Es más liviano: se quitó un componente que no se usaba.\r\n- Configuración \u003e Sistema muestra la versión de cada componente del programa.",
     "notes_history":  [
+                          {
+                              "version":  "1.1.21",
+                              "notes":  "## Mantenimiento interno\r\n- El programa se arma siempre con las mismas versiones de sus componentes, las que se probaron antes de publicar. Hasta ahora cada update traía las que hubiera ese día.\r\n- Es más liviano: se quitó un componente que no se usaba.\r\n- Configuración \u003e Sistema muestra la versión de cada componente del programa."
+                          },
                           {
                               "version":  "1.1.20",
                               "notes":  "## Visor de PDF más cómodo\r\n- Los comprobantes se abren a un tamaño que se lee bien, a lo ancho de la ventana. Con los botones de la barra se puede seguir viendo la hoja entera o cambiar el zoom.\r\n- El panel Imprimir explica cómo imprime ahora: a tamaño real, en el papel del PDF y de una sola cara."
