@@ -1,11 +1,15 @@
 {
     "app":  "ElectriLauquen",
-    "version":  "1.1.23",
+    "version":  "1.1.24",
     "channel":  "stable",
-    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.1.23/Electrilauquen-1.1.23.zip",
-    "sha256":  "a0a91229848eca8e165fb5e5dc4fbcc602be40e516702aee139bc6c6d677c9c1",
-    "notes":  "## Débito en Compras\r\n- Al cargar una compra, al marcarla como pagada y en la forma de pago habitual de un proveedor se puede elegir «Débito».",
+    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.1.24/Electrilauquen-1.1.24.zip",
+    "sha256":  "df0ecb619ca67bf63154cdaf888855cc9c4a877c51ab3638917030f357670ac2",
+    "notes":  "## Calculadora de vuelto y cobro en efectivo\r\n- Las dos ventanas tienen el diseño del resto del programa: los importes se leen en el color del texto y solo «Falta abonar» va en rojo. El recuadro del vuelto queda en gris hasta que se escribe con cuánto paga el cliente.\r\n- Debajo de «Cliente paga con» hay botones para cargar el pago con un clic: «Justo» y los montos más probables según los billetes (por ejemplo, con $ 12.345 aparecen $ 12.500, $ 13.000 y $ 20.000).\r\n- En el cobro en efectivo de Nueva Venta, Enter en «Paga con» pasa a «Confirmar cobro» y Esc cierra la ventana sin cobrar desde cualquier lugar de ella.",
     "notes_history":  [
+                          {
+                              "version":  "1.1.24",
+                              "notes":  "## Calculadora de vuelto y cobro en efectivo\r\n- Las dos ventanas tienen el diseño del resto del programa: los importes se leen en el color del texto y solo «Falta abonar» va en rojo. El recuadro del vuelto queda en gris hasta que se escribe con cuánto paga el cliente.\r\n- Debajo de «Cliente paga con» hay botones para cargar el pago con un clic: «Justo» y los montos más probables según los billetes (por ejemplo, con $ 12.345 aparecen $ 12.500, $ 13.000 y $ 20.000).\r\n- En el cobro en efectivo de Nueva Venta, Enter en «Paga con» pasa a «Confirmar cobro» y Esc cierra la ventana sin cobrar desde cualquier lugar de ella."
+                          },
                           {
                               "version":  "1.1.23",
                               "notes":  "## Débito en Compras\r\n- Al cargar una compra, al marcarla como pagada y en la forma de pago habitual de un proveedor se puede elegir «Débito»."
