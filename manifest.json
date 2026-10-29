@@ -4,11 +4,11 @@
     "channel":  "stable",
     "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.1.23/Electrilauquen-1.1.23.zip",
     "sha256":  "a0a91229848eca8e165fb5e5dc4fbcc602be40e516702aee139bc6c6d677c9c1",
-    "notes":  "Paquete stable 1.1.23.",
+    "notes":  "## Débito en Compras\r\n- Al cargar una compra, al marcarla como pagada y en la forma de pago habitual de un proveedor se puede elegir «Débito».",
     "notes_history":  [
                           {
                               "version":  "1.1.23",
-                              "notes":  "Paquete stable 1.1.23."
+                              "notes":  "## Débito en Compras\r\n- Al cargar una compra, al marcarla como pagada y en la forma de pago habitual de un proveedor se puede elegir «Débito»."
                           },
                           {
                               "version":  "1.1.22",
