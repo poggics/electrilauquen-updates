@@ -1,11 +1,15 @@
 {
     "app":  "ElectriLauquen",
-    "version":  "1.1.22",
+    "version":  "1.1.23",
     "channel":  "stable",
-    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.1.22/Electrilauquen-1.1.22.zip",
-    "sha256":  "9019c19de37f3a2957022263423915f04ffde58d934c57c22da5d09c092546d5",
-    "notes":  "## Pasos del proceso sin doble tilde\r\n- Al facturar o hacer una devolución, cada paso terminado de la ventana del proceso muestra un solo tilde (antes se veía otro ícono pegado al primero).",
+    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.1.23/Electrilauquen-1.1.23.zip",
+    "sha256":  "a0a91229848eca8e165fb5e5dc4fbcc602be40e516702aee139bc6c6d677c9c1",
+    "notes":  "Paquete stable 1.1.23.",
     "notes_history":  [
+                          {
+                              "version":  "1.1.23",
+                              "notes":  "Paquete stable 1.1.23."
+                          },
                           {
                               "version":  "1.1.22",
                               "notes":  "## Pasos del proceso sin doble tilde\r\n- Al facturar o hacer una devolución, cada paso terminado de la ventana del proceso muestra un solo tilde (antes se veía otro ícono pegado al primero)."
