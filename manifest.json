@@ -1,11 +1,15 @@
 {
     "app":  "ElectriLauquen",
-    "version":  "1.1.21",
+    "version":  "1.1.22",
     "channel":  "stable",
-    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.1.21/Electrilauquen-1.1.21.zip",
-    "sha256":  "2975dd6feb2fb2f4f23b148597dad13c7b060f86745c39356bb0d889a6a172af",
-    "notes":  "## Mantenimiento interno\r\n- El programa se arma siempre con las mismas versiones de sus componentes, las que se probaron antes de publicar. Hasta ahora cada update traía las que hubiera ese día.\r\n- Es más liviano: se quitó un componente que no se usaba.\r\n- Configuración \u003e Sistema muestra la versión de cada componente del programa.",
+    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.1.22/Electrilauquen-1.1.22.zip",
+    "sha256":  "9019c19de37f3a2957022263423915f04ffde58d934c57c22da5d09c092546d5",
+    "notes":  "## Pasos del proceso sin doble tilde\r\n- Al facturar o hacer una devolución, cada paso terminado de la ventana del proceso muestra un solo tilde (antes se veía otro ícono pegado al primero).",
     "notes_history":  [
+                          {
+                              "version":  "1.1.22",
+                              "notes":  "## Pasos del proceso sin doble tilde\r\n- Al facturar o hacer una devolución, cada paso terminado de la ventana del proceso muestra un solo tilde (antes se veía otro ícono pegado al primero)."
+                          },
                           {
                               "version":  "1.1.21",
                               "notes":  "## Mantenimiento interno\r\n- El programa se arma siempre con las mismas versiones de sus componentes, las que se probaron antes de publicar. Hasta ahora cada update traía las que hubiera ese día.\r\n- Es más liviano: se quitó un componente que no se usaba.\r\n- Configuración \u003e Sistema muestra la versión de cada componente del programa."
