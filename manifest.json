@@ -1,11 +1,15 @@
 {
     "app":  "ElectriLauquen",
-    "version":  "1.1.26",
+    "version":  "1.1.27",
     "channel":  "stable",
-    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.1.26/Electrilauquen-1.1.26.zip",
-    "sha256":  "0436b65ce36c96b99e58fbbaaf5a085c8d93cf70eb702ff68af64fed350c6bd4",
-    "notes":  "## Stock\r\n- Facturar o pasar un presupuesto cargado en Nueva Venta ya no falla con «No se encontró el producto» cuando uno de sus productos está suspendido. Con muchas más ventas, ese mismo error podía llegar a bajar el stock de otro producto; ahora el stock siempre sale del código del producto vendido.\r\n- Después de borrar la lista de precios, lo que vuelve con un cambio interno o al quitarle el tilde a un presupuesto queda anotado en el stock, como ya pasaba con las notas de crédito.\r\n\r\n## Correcciones\r\n- El Historial ya no da error si se filtra solo con la fecha «hasta»: los totales van desde la primera venta, como la lista.",
+    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.1.27/Electrilauquen-1.1.27.zip",
+    "sha256":  "1cee0f1642f6aa7e073014f1fad12bdd86ecf53c486d633dc229a6d749290160",
+    "notes":  "## Asistente\r\n- El asistente ahora es un asistente completo, como el de la web: responde bien cualquier tema (autos, actualidad, tecnología, cocina, trámites, programación…) y no solo lo del negocio o la electricidad. Lo del local lo sigue sabiendo y haciendo igual.\r\n- Busca en internet a fondo: hace varias búsquedas, lee las páginas enteras y compara fuentes antes de responder.\r\n- Las respuestas largas se leen mejor: títulos, listas una dentro de otra, citas, enlaces y bloques de código con su botón «Copiar».\r\n- Si nunca se tocó la configuración, viene con esfuerzo alto y la búsqueda en internet encendida. Lo que ya estaba elegido en Configuración \u003e Asistente IA se respeta.",
     "notes_history":  [
+                          {
+                              "version":  "1.1.27",
+                              "notes":  "## Asistente\r\n- El asistente ahora es un asistente completo, como el de la web: responde bien cualquier tema (autos, actualidad, tecnología, cocina, trámites, programación…) y no solo lo del negocio o la electricidad. Lo del local lo sigue sabiendo y haciendo igual.\r\n- Busca en internet a fondo: hace varias búsquedas, lee las páginas enteras y compara fuentes antes de responder.\r\n- Las respuestas largas se leen mejor: títulos, listas una dentro de otra, citas, enlaces y bloques de código con su botón «Copiar».\r\n- Si nunca se tocó la configuración, viene con esfuerzo alto y la búsqueda en internet encendida. Lo que ya estaba elegido en Configuración \u003e Asistente IA se respeta."
+                          },
                           {
                               "version":  "1.1.26",
                               "notes":  "## Stock\r\n- Facturar o pasar un presupuesto cargado en Nueva Venta ya no falla con «No se encontró el producto» cuando uno de sus productos está suspendido. Con muchas más ventas, ese mismo error podía llegar a bajar el stock de otro producto; ahora el stock siempre sale del código del producto vendido.\r\n- Después de borrar la lista de precios, lo que vuelve con un cambio interno o al quitarle el tilde a un presupuesto queda anotado en el stock, como ya pasaba con las notas de crédito.\r\n\r\n## Correcciones\r\n- El Historial ya no da error si se filtra solo con la fecha «hasta»: los totales van desde la primera venta, como la lista."
