@@ -1,11 +1,15 @@
 {
     "app":  "ElectriLauquen",
-    "version":  "1.1.27",
+    "version":  "1.1.28",
     "channel":  "stable",
-    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.1.27/Electrilauquen-1.1.27.zip",
-    "sha256":  "1cee0f1642f6aa7e073014f1fad12bdd86ecf53c486d633dc229a6d749290160",
-    "notes":  "## Asistente\r\n- El asistente ahora es un asistente completo, como el de la web: responde bien cualquier tema (autos, actualidad, tecnología, cocina, trámites, programación…) y no solo lo del negocio o la electricidad. Lo del local lo sigue sabiendo y haciendo igual.\r\n- Busca en internet a fondo: hace varias búsquedas, lee las páginas enteras y compara fuentes antes de responder.\r\n- Las respuestas largas se leen mejor: títulos, listas una dentro de otra, citas, enlaces y bloques de código con su botón «Copiar».\r\n- Si nunca se tocó la configuración, viene con esfuerzo alto y la búsqueda en internet encendida. Lo que ya estaba elegido en Configuración \u003e Asistente IA se respeta.",
+    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.1.28/Electrilauquen-1.1.28.zip",
+    "sha256":  "07072949b9e3407e719a8ead4a80846b4ce0239e9e71f6f0c8c090ed394e2ebf",
+    "notes":  "## Nueva Venta\r\n- Al poner un descuento o un recargo, el total ya no muestra por un instante los centavos («$ 21.300,00» antes de «$ 21.300»): el importe que aparece al tipear es el mismo que queda.\r\n- Con el redondeo, el total queda siempre redondo. Con algunos carritos (por ejemplo, 0,75 m de cable con un 15 % de descuento) podía quedar en $ 19.100,01; lo mismo en la diferencia que paga el cliente en un cambio.\r\n- Las facturas ya emitidas no cambian: su PDF y el Historial muestran los mismos importes que antes.",
     "notes_history":  [
+                          {
+                              "version":  "1.1.28",
+                              "notes":  "## Nueva Venta\r\n- Al poner un descuento o un recargo, el total ya no muestra por un instante los centavos («$ 21.300,00» antes de «$ 21.300»): el importe que aparece al tipear es el mismo que queda.\r\n- Con el redondeo, el total queda siempre redondo. Con algunos carritos (por ejemplo, 0,75 m de cable con un 15 % de descuento) podía quedar en $ 19.100,01; lo mismo en la diferencia que paga el cliente en un cambio.\r\n- Las facturas ya emitidas no cambian: su PDF y el Historial muestran los mismos importes que antes."
+                          },
                           {
                               "version":  "1.1.27",
                               "notes":  "## Asistente\r\n- El asistente ahora es un asistente completo, como el de la web: responde bien cualquier tema (autos, actualidad, tecnología, cocina, trámites, programación…) y no solo lo del negocio o la electricidad. Lo del local lo sigue sabiendo y haciendo igual.\r\n- Busca en internet a fondo: hace varias búsquedas, lee las páginas enteras y compara fuentes antes de responder.\r\n- Las respuestas largas se leen mejor: títulos, listas una dentro de otra, citas, enlaces y bloques de código con su botón «Copiar».\r\n- Si nunca se tocó la configuración, viene con esfuerzo alto y la búsqueda en internet encendida. Lo que ya estaba elegido en Configuración \u003e Asistente IA se respeta."
