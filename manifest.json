@@ -1,11 +1,15 @@
 {
     "app":  "ElectriLauquen",
-    "version":  "1.1.28",
+    "version":  "1.1.29",
     "channel":  "stable",
-    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.1.28/Electrilauquen-1.1.28.zip",
-    "sha256":  "07072949b9e3407e719a8ead4a80846b4ce0239e9e71f6f0c8c090ed394e2ebf",
-    "notes":  "## Nueva Venta\r\n- Al poner un descuento o un recargo, el total ya no muestra por un instante los centavos («$ 21.300,00» antes de «$ 21.300»): el importe que aparece al tipear es el mismo que queda.\r\n- Con el redondeo, el total queda siempre redondo. Con algunos carritos (por ejemplo, 0,75 m de cable con un 15 % de descuento) podía quedar en $ 19.100,01; lo mismo en la diferencia que paga el cliente en un cambio.\r\n- Las facturas ya emitidas no cambian: su PDF y el Historial muestran los mismos importes que antes.",
+    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.1.29/Electrilauquen-1.1.29.zip",
+    "sha256":  "ced52bd254fe7dd60a28f742a1bcbb4373f9779e3f70565d989c065b1cfa4b81",
+    "notes":  "## Historial de ventas\r\n- El buscador ya no se queda solo con el día de hoy: al empezar a buscar (con Hoy, Ayer, Esta semana o Este mes elegidos), busca en los últimos 60 días, así aparece la factura o el presupuesto de ayer o del mes pasado. Las fechas de arriba muestran desde cuándo está buscando.\r\n- Al borrar la búsqueda vuelve el período que estaba. Si se eligen fechas a mano, la búsqueda las respeta.",
     "notes_history":  [
+                          {
+                              "version":  "1.1.29",
+                              "notes":  "## Historial de ventas\r\n- El buscador ya no se queda solo con el día de hoy: al empezar a buscar (con Hoy, Ayer, Esta semana o Este mes elegidos), busca en los últimos 60 días, así aparece la factura o el presupuesto de ayer o del mes pasado. Las fechas de arriba muestran desde cuándo está buscando.\r\n- Al borrar la búsqueda vuelve el período que estaba. Si se eligen fechas a mano, la búsqueda las respeta."
+                          },
                           {
                               "version":  "1.1.28",
                               "notes":  "## Nueva Venta\r\n- Al poner un descuento o un recargo, el total ya no muestra por un instante los centavos («$ 21.300,00» antes de «$ 21.300»): el importe que aparece al tipear es el mismo que queda.\r\n- Con el redondeo, el total queda siempre redondo. Con algunos carritos (por ejemplo, 0,75 m de cable con un 15 % de descuento) podía quedar en $ 19.100,01; lo mismo en la diferencia que paga el cliente en un cambio.\r\n- Las facturas ya emitidas no cambian: su PDF y el Historial muestran los mismos importes que antes."
