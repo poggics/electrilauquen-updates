@@ -1,11 +1,15 @@
 {
     "app":  "ElectriLauquen",
-    "version":  "1.1.29",
+    "version":  "1.1.30",
     "channel":  "stable",
-    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.1.29/Electrilauquen-1.1.29.zip",
-    "sha256":  "ced52bd254fe7dd60a28f742a1bcbb4373f9779e3f70565d989c065b1cfa4b81",
-    "notes":  "## Historial de ventas\r\n- El buscador ya no se queda solo con el día de hoy: al empezar a buscar (con Hoy, Ayer, Esta semana o Este mes elegidos), busca en los últimos 60 días, así aparece la factura o el presupuesto de ayer o del mes pasado. Las fechas de arriba muestran desde cuándo está buscando.\r\n- Al borrar la búsqueda vuelve el período que estaba. Si se eligen fechas a mano, la búsqueda las respeta.",
+    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.1.30/Electrilauquen-1.1.30.zip",
+    "sha256":  "314b610f4ff6c4f269a1d5fa0eebd339a9f5a3b2175531be79f19ca375f824f6",
+    "notes":  "## Textos del programa\r\n- Se reescribieron los mensajes y las ayudas para que suenen más naturales y directos, como se habla en el mostrador. No cambia nada de cómo se usa el programa.\r\n\r\n## Nueva Venta\r\n- La ventana que aparece al emitir una factura muestra pasos cortos (\"Pedir el CAE a ARCA\", \"Armar el PDF\") y al terminar dice \"Venta 531 lista\".\r\n- Los avisos son más cortos: \"Venta 531 guardada\", \"Precio cambiado\", \"Probá de nuevo\".\r\n- Los selectores vacíos dicen \"Elegir\" y el de medio de pago se llama \"Pago\".\r\n\r\n## Resumen Negocio\r\n- El botón \"Ventas legacy\" ahora se llama \"Ventas del Excel\".\r\n\r\n## Lista de precios\r\n- En Nuevo producto, los botones dicen \"Agregar producto\" y \"Agregar suspendido\".\r\n\r\n## Configuración\r\n- Las ayudas de cada sección son más cortas y claras.",
     "notes_history":  [
+                          {
+                              "version":  "1.1.30",
+                              "notes":  "## Textos del programa\r\n- Se reescribieron los mensajes y las ayudas para que suenen más naturales y directos, como se habla en el mostrador. No cambia nada de cómo se usa el programa.\r\n\r\n## Nueva Venta\r\n- La ventana que aparece al emitir una factura muestra pasos cortos (\"Pedir el CAE a ARCA\", \"Armar el PDF\") y al terminar dice \"Venta 531 lista\".\r\n- Los avisos son más cortos: \"Venta 531 guardada\", \"Precio cambiado\", \"Probá de nuevo\".\r\n- Los selectores vacíos dicen \"Elegir\" y el de medio de pago se llama \"Pago\".\r\n\r\n## Resumen Negocio\r\n- El botón \"Ventas legacy\" ahora se llama \"Ventas del Excel\".\r\n\r\n## Lista de precios\r\n- En Nuevo producto, los botones dicen \"Agregar producto\" y \"Agregar suspendido\".\r\n\r\n## Configuración\r\n- Las ayudas de cada sección son más cortas y claras."
+                          },
                           {
                               "version":  "1.1.29",
                               "notes":  "## Historial de ventas\r\n- El buscador ya no se queda solo con el día de hoy: al empezar a buscar (con Hoy, Ayer, Esta semana o Este mes elegidos), busca en los últimos 60 días, así aparece la factura o el presupuesto de ayer o del mes pasado. Las fechas de arriba muestran desde cuándo está buscando.\r\n- Al borrar la búsqueda vuelve el período que estaba. Si se eligen fechas a mano, la búsqueda las respeta."
