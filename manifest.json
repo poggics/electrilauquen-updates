@@ -1,11 +1,15 @@
 {
     "app":  "ElectriLauquen",
-    "version":  "1.1.30",
+    "version":  "1.1.31",
     "channel":  "stable",
-    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.1.30/Electrilauquen-1.1.30.zip",
-    "sha256":  "314b610f4ff6c4f269a1d5fa0eebd339a9f5a3b2175531be79f19ca375f824f6",
-    "notes":  "## Textos del programa\r\n- Se reescribieron los mensajes y las ayudas para que suenen más naturales y directos, como se habla en el mostrador. No cambia nada de cómo se usa el programa.\r\n\r\n## Nueva Venta\r\n- La ventana que aparece al emitir una factura muestra pasos cortos (\"Pedir el CAE a ARCA\", \"Armar el PDF\") y al terminar dice \"Venta 531 lista\".\r\n- Los avisos son más cortos: \"Venta 531 guardada\", \"Precio cambiado\", \"Probá de nuevo\".\r\n- Los selectores vacíos dicen \"Elegir\" y el de medio de pago se llama \"Pago\".\r\n\r\n## Resumen Negocio\r\n- El botón \"Ventas legacy\" ahora se llama \"Ventas del Excel\".\r\n\r\n## Lista de precios\r\n- En Nuevo producto, los botones dicen \"Agregar producto\" y \"Agregar suspendido\".\r\n\r\n## Configuración\r\n- Las ayudas de cada sección son más cortas y claras.",
+    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.1.31/Electrilauquen-1.1.31.zip",
+    "sha256":  "32f22b63a7032d7f86a137e96752054fe614ad5ca38b25b9ba7b4aed4f26d134",
+    "notes":  "## Comprobantes\r\n- Las facturas, notas de crédito, presupuestos, remitos y tickets salen con el logo nuevo del local, en blanco y negro.",
     "notes_history":  [
+                          {
+                              "version":  "1.1.31",
+                              "notes":  "## Comprobantes\r\n- Las facturas, notas de crédito, presupuestos, remitos y tickets salen con el logo nuevo del local, en blanco y negro."
+                          },
                           {
                               "version":  "1.1.30",
                               "notes":  "## Textos del programa\r\n- Se reescribieron los mensajes y las ayudas para que suenen más naturales y directos, como se habla en el mostrador. No cambia nada de cómo se usa el programa.\r\n\r\n## Nueva Venta\r\n- La ventana que aparece al emitir una factura muestra pasos cortos (\"Pedir el CAE a ARCA\", \"Armar el PDF\") y al terminar dice \"Venta 531 lista\".\r\n- Los avisos son más cortos: \"Venta 531 guardada\", \"Precio cambiado\", \"Probá de nuevo\".\r\n- Los selectores vacíos dicen \"Elegir\" y el de medio de pago se llama \"Pago\".\r\n\r\n## Resumen Negocio\r\n- El botón \"Ventas legacy\" ahora se llama \"Ventas del Excel\".\r\n\r\n## Lista de precios\r\n- En Nuevo producto, los botones dicen \"Agregar producto\" y \"Agregar suspendido\".\r\n\r\n## Configuración\r\n- Las ayudas de cada sección son más cortas y claras."
