@@ -1,11 +1,15 @@
 {
     "app":  "ElectriLauquen",
-    "version":  "1.1.31",
+    "version":  "1.1.32",
     "channel":  "stable",
-    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.1.31/Electrilauquen-1.1.31.zip",
-    "sha256":  "32f22b63a7032d7f86a137e96752054fe614ad5ca38b25b9ba7b4aed4f26d134",
-    "notes":  "## Comprobantes\r\n- Las facturas, notas de crédito, presupuestos, remitos y tickets salen con el logo nuevo del local, en blanco y negro.",
+    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.1.32/Electrilauquen-1.1.32.zip",
+    "sha256":  "a104dff8e66d02458f10d254865ed7b59d200394303a40c5b0c5329d8421f258",
+    "notes":  "## Tienda online\r\n- Configuración tiene una sección nueva, Tienda online. Pegás la llave que da la administración de la tienda y, mientras el programa está abierto, le manda a la tienda los productos con su precio y stock, y los datos del local para los presupuestos.\r\n- Manda solo lo que cambió: al abrir, cada 2 minutos y apenas cambiás precios o importás una lista. Sin internet no se pierde nada, lo vuelve a probar solo.\r\n- Si con la lista nueva la tienda se quedara sin más de la mitad de los productos, espera a que lo confirmes en esa sección.\r\n- La tienda no le manda nada al programa. Lo que se vende por la web se carga acá como una venta más.",
     "notes_history":  [
+                          {
+                              "version":  "1.1.32",
+                              "notes":  "## Tienda online\r\n- Configuración tiene una sección nueva, Tienda online. Pegás la llave que da la administración de la tienda y, mientras el programa está abierto, le manda a la tienda los productos con su precio y stock, y los datos del local para los presupuestos.\r\n- Manda solo lo que cambió: al abrir, cada 2 minutos y apenas cambiás precios o importás una lista. Sin internet no se pierde nada, lo vuelve a probar solo.\r\n- Si con la lista nueva la tienda se quedara sin más de la mitad de los productos, espera a que lo confirmes en esa sección.\r\n- La tienda no le manda nada al programa. Lo que se vende por la web se carga acá como una venta más."
+                          },
                           {
                               "version":  "1.1.31",
                               "notes":  "## Comprobantes\r\n- Las facturas, notas de crédito, presupuestos, remitos y tickets salen con el logo nuevo del local, en blanco y negro."
