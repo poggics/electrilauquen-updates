@@ -1,11 +1,15 @@
 {
     "app":  "ElectriLauquen",
-    "version":  "1.1.33",
+    "version":  "1.1.34",
     "channel":  "stable",
-    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.1.33/Electrilauquen-1.1.33.zip",
-    "sha256":  "904bad1ac8b0c7d6b35579d2d5ce3e8da8fe626a7188d328283baf9a73b58dbc",
-    "notes":  "## Tienda online\r\n- El programa ya se conecta con la tienda publicada. En la 1.1.32 la protección del sitio frenaba el envío y la tienda no recibía los productos.",
+    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.1.34/Electrilauquen-1.1.34.zip",
+    "sha256":  "e5c734e03823a1298d56a3e7118bd72befd44fb17ee269d3c8050a25b594e9c5",
+    "notes":  "## Nueva venta\r\n- Los pedidos de la tienda online se pueden pasar a una venta. En la ficha del pedido de la tienda se copia, y en Nueva venta se toca el botón de la tienda (al lado de \"Buscar presup./remito\") y se pega con Ctrl+V.\r\n- La venta se abre con los precios, la bonificación y el redondeo que cobró la tienda, y el envío como un renglón más. Antes de cargarla avisa si falta algún producto en la lista, si el total no da igual o si el pedido ya se cargó.",
     "notes_history":  [
+                          {
+                              "version":  "1.1.34",
+                              "notes":  "## Nueva venta\r\n- Los pedidos de la tienda online se pueden pasar a una venta. En la ficha del pedido de la tienda se copia, y en Nueva venta se toca el botón de la tienda (al lado de \"Buscar presup./remito\") y se pega con Ctrl+V.\r\n- La venta se abre con los precios, la bonificación y el redondeo que cobró la tienda, y el envío como un renglón más. Antes de cargarla avisa si falta algún producto en la lista, si el total no da igual o si el pedido ya se cargó."
+                          },
                           {
                               "version":  "1.1.33",
                               "notes":  "## Tienda online\r\n- El programa ya se conecta con la tienda publicada. En la 1.1.32 la protección del sitio frenaba el envío y la tienda no recibía los productos."
