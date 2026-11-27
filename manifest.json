@@ -1,11 +1,15 @@
 {
     "app":  "ElectriLauquen",
-    "version":  "1.1.35",
+    "version":  "1.1.36",
     "channel":  "stable",
-    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.1.35/Electrilauquen-1.1.35.zip",
-    "sha256":  "df0ef6a32d0d94af9c9a28d53a450520431512ee46a42bef8203081f9d8ee212",
-    "notes":  "## Nueva venta\r\n- El campo de bonificación de un artículo se pone verde cuando tiene un descuento, así se ve antes de poner además el descuento general.",
+    "package_url":  "https://github.com/poggics/electrilauquen-updates/releases/download/v1.1.36/Electrilauquen-1.1.36.zip",
+    "sha256":  "9615bcd9a86074764cb548b32b93b4354111811af5793816bd8a0c134748020e",
+    "notes":  "## Inicio\r\n- Desde el último día de cada mes hasta el 10 del siguiente aparece arriba, al lado de \"Depositar hoy\", el botón \"Llegó el resumen de noviembre\" (con el mes que termina). Abre un PDF con cómo fue el mes, que se puede imprimir o guardar.\r\n- El resumen trae, comparado con el mes anterior, la venta, la ganancia, el margen, las ventas y el ticket promedio. También la venta día por día, por semana, por día de la semana y por hora, los medios de pago, los comprobantes, los productos, categorías y marcas que más vendieron, los clientes, las compras a proveedores, lo que queda por cobrar, el stock que no se movió y una cuenta previa del IVA del mes.",
     "notes_history":  [
+                          {
+                              "version":  "1.1.36",
+                              "notes":  "## Inicio\r\n- Desde el último día de cada mes hasta el 10 del siguiente aparece arriba, al lado de \"Depositar hoy\", el botón \"Llegó el resumen de noviembre\" (con el mes que termina). Abre un PDF con cómo fue el mes, que se puede imprimir o guardar.\r\n- El resumen trae, comparado con el mes anterior, la venta, la ganancia, el margen, las ventas y el ticket promedio. También la venta día por día, por semana, por día de la semana y por hora, los medios de pago, los comprobantes, los productos, categorías y marcas que más vendieron, los clientes, las compras a proveedores, lo que queda por cobrar, el stock que no se movió y una cuenta previa del IVA del mes."
+                          },
                           {
                               "version":  "1.1.35",
                               "notes":  "## Nueva venta\r\n- El campo de bonificación de un artículo se pone verde cuando tiene un descuento, así se ve antes de poner además el descuento general."
